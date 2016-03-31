@@ -4,3 +4,6 @@
 [submodule "cryptonotewallet"]
 	path = cryptonotewallet
 	url = https://github.com/cryptonotefoundation/cryptonotewallet.git
+[submodule "Baecoin_Gui_Wallet"]
+	path = Baecoin_Gui_Wallet
+	url = https://github.com/lexieric/Baecoin_Gui_Wallet
