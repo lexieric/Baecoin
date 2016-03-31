@@ -1,0 +1,6 @@
+[submodule "cryptonote"]
+	path = cryptonote
+	url = https://github.com/cryptonotefoundation/cryptonote.git
+[submodule "cryptonotewallet"]
+	path = cryptonotewallet
+	url = https://github.com/cryptonotefoundation/cryptonotewallet.git
