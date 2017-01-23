@@ -1,0 +1,3 @@
+2017-Jan-23 15:23:18.251000 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2017-Jan-23 15:23:18.254432 ERROR [currency] failed to parse coinbase tx from hard coded blob
+2017-Jan-23 15:23:18.254537 ERROR [currency] Failed to generate genesis block

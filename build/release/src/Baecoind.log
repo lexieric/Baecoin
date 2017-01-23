@@ -1,0 +1,4 @@
+2017-Jan-23 15:23:07.591323 INFO [daemon] Baecoin v1.1.1.1()
+2017-Jan-23 15:23:07.614400 INFO [daemon] Module folder: /Users/kostia/baecoinmk2/baecoin/build/release/src/Baecoind
+2017-Jan-23 15:23:07.616086 ERROR [currency] failed to parse coinbase tx from hard coded blob
+2017-Jan-23 15:23:07.616181 ERROR [currency] Failed to generate genesis block

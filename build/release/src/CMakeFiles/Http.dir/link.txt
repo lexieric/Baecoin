@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libHttp.a  CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libHttp.a

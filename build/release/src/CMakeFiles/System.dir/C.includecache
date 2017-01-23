@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kostia/baecoinmk2/baecoin/src/Platform/OSX/System/Context.c
+string.h
+-
+context.h
+/Users/kostia/baecoinmk2/baecoin/src/Platform/OSX/System/context.h
+
+/Users/kostia/baecoinmk2/baecoin/src/Platform/OSX/System/context.h
+stdlib.h
+-
+
