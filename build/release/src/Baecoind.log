@@ -2,3 +2,203 @@
 2017-Jan-23 15:23:07.614400 INFO [daemon] Module folder: /Users/kostia/baecoinmk2/baecoin/build/release/src/Baecoind
 2017-Jan-23 15:23:07.616086 ERROR [currency] failed to parse coinbase tx from hard coded blob
 2017-Jan-23 15:23:07.616181 ERROR [currency] Failed to generate genesis block
+2017-Jan-23 15:58:10.460308 INFO [daemon] Baecoin v1.1.1.1()
+2017-Jan-23 15:58:10.461233 INFO [daemon] Module folder: ./baecoind
+2017-Jan-23 15:58:10.463184 INFO [daemon] Initializing p2p server...
+2017-Jan-23 15:58:10.471586 INFO [node_server] Binding on 0.0.0.0:22322
+2017-Jan-23 15:58:10.471788 INFO [node_server] Net service binded on 0.0.0.0:22322
+2017-Jan-23 15:58:10.471874 INFO [node_server] Attempting to add IGD port mapping.
+2017-Jan-23 15:58:11.522988 ERROR [node_server] UPNP_AddPortMapping failed.
+2017-Jan-23 15:58:11.523118 INFO [daemon] P2p server initialized OK
+2017-Jan-23 15:58:11.523239 INFO [daemon] Initializing core...
+2017-Jan-23 15:58:11.563050 INFO [Blockchain] Loading blockchain...
+2017-Jan-23 15:58:11.599538 INFO [BlockCacheSerializer] - loading block index...
+2017-Jan-23 15:58:11.601756 INFO [BlockCacheSerializer] - loading transaction map...
+2017-Jan-23 15:58:11.602813 INFO [BlockCacheSerializer] - loading spent keys...
+2017-Jan-23 15:58:11.602925 INFO [BlockCacheSerializer] - loading outputs...
+2017-Jan-23 15:58:11.611341 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2017-Jan-23 15:58:11.611479 INFO [BlockCacheSerializer] Serialization time: 34ms
+2017-Jan-23 15:58:11.611590 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2017-Jan-23 15:58:11.612239 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2017-Jan-23 15:58:11.612339 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2017-Jan-23 15:58:11.613781 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2017-Jan-23 15:58:11.638260 ERROR [Blockchain] Failed to init: genesis block mismatch. Probably you set --testnet flag with data dir with non-test blockchain or another network.
+2017-Jan-23 15:58:11.638397 ERROR [core] Failed to initialize blockchain storage
+2017-Jan-23 15:58:11.638473 ERROR [daemon] Failed to initialize core
+2017-Jan-23 15:58:11.638676 INFO [miner] Mining has been stopped, 0 finished
+2017-Jan-23 16:00:23.721117 INFO [daemon] Baecoin v1.1.1.1()
+2017-Jan-23 16:00:23.722066 INFO [daemon] Module folder: ./baecoind
+2017-Jan-23 16:00:23.722151 INFO [daemon] Starting in testnet mode!
+2017-Jan-23 16:00:23.724006 INFO [miner] Mining has been stopped, 0 finished
+2017-Jan-23 16:00:23.724728 ERROR [daemon] Exception: Directory does not exist: ~/baecoinmk2/
+2017-Jan-23 16:01:13.888558 INFO [daemon] Baecoin v1.1.1.1()
+2017-Jan-23 16:01:13.889473 INFO [daemon] Module folder: ./baecoind
+2017-Jan-23 16:01:13.889559 INFO [daemon] Starting in testnet mode!
+2017-Jan-23 16:01:13.891475 INFO [daemon] Initializing p2p server...
+2017-Jan-23 16:01:13.891660 INFO [node_server] Binding on 0.0.0.0:22322
+2017-Jan-23 16:01:13.891883 INFO [node_server] Net service binded on 0.0.0.0:22322
+2017-Jan-23 16:01:13.891970 INFO [node_server] Attempting to add IGD port mapping.
+2017-Jan-23 16:01:14.947447 ERROR [node_server] UPNP_AddPortMapping failed.
+2017-Jan-23 16:01:14.947577 INFO [daemon] P2p server initialized OK
+2017-Jan-23 16:01:14.947707 INFO [daemon] Initializing core...
+2017-Jan-23 16:01:14.948316 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2017-Jan-23 16:01:15.010520 INFO [Blockchain] Blockchain initialized. last block: 0, d1664.h11.m1.s15 time ago, current difficulty: 1
+2017-Jan-23 16:01:15.010657 INFO [daemon] Core initialized OK
+2017-Jan-23 16:01:15.010940 INFO [daemon] Starting core rpc server on address 127.0.0.1:22422
+2017-Jan-23 16:01:15.011227 INFO [daemon] Core rpc server started ok
+2017-Jan-23 16:01:15.011329 INFO [daemon] Starting p2p net loop...
+2017-Jan-23 16:01:15.011505 INFO [node_server] Starting node_server
+2017-Jan-23 16:01:15.011699 INFO [core] 
+2017-Jan-23 16:01:15.011699 INFO [core] **********************************************************************
+2017-Jan-23 16:01:15.011699 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Jan-23 16:01:15.011699 INFO [core] 
+2017-Jan-23 16:01:15.011699 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Jan-23 16:01:15.011699 INFO [core] 
+2017-Jan-23 16:01:15.011699 INFO [core] Use "help" command to see the list of available commands.
+2017-Jan-23 16:01:15.011699 INFO [core] 
+2017-Jan-23 16:01:15.011699 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Jan-23 16:01:15.011699 INFO [core] **********************************************************************
+2017-Jan-23 16:02:13.698327 INFO [node_server] Stop signal sent
+2017-Jan-23 16:02:13.698349 INFO [node_server] Stopping NodeServer and it's0 connections...
+2017-Jan-23 16:02:13.698714 INFO [node_server] NodeServer loop stopped
+2017-Jan-23 16:02:13.698792 INFO [daemon] p2p net loop stopped
+2017-Jan-23 16:02:13.698874 INFO [daemon] Stopping core rpc server...
+2017-Jan-23 16:02:13.699116 INFO [daemon] Deinitializing core...
+2017-Jan-23 16:02:13.699207 INFO [miner] Mining has been stopped, 0 finished
+2017-Jan-23 16:02:13.699621 INFO [Blockchain] Saving blockchain...
+2017-Jan-23 16:02:13.699818 INFO [BlockCacheSerializer] - saving block index...
+2017-Jan-23 16:02:13.699901 INFO [BlockCacheSerializer] - saving transaction map...
+2017-Jan-23 16:02:13.700024 INFO [BlockCacheSerializer] - saving spent keys...
+2017-Jan-23 16:02:13.700098 INFO [BlockCacheSerializer] - saving outputs...
+2017-Jan-23 16:02:13.700176 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2017-Jan-23 16:02:13.700252 INFO [BlockCacheSerializer] Serialization time: 0ms
+2017-Jan-23 16:02:13.700394 INFO [Blockchain] Saving blockchain indices...
+2017-Jan-23 16:02:13.700653 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2017-Jan-23 16:02:13.700775 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2017-Jan-23 16:02:13.700856 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2017-Jan-23 16:02:13.700997 INFO [daemon] Deinitializing p2p...
+2017-Jan-23 16:02:13.701405 INFO [miner] Mining has been stopped, 0 finished
+2017-Jan-23 16:02:13.702271 INFO [daemon] Node stopped.
+2017-Jan-23 16:02:52.128068 INFO [daemon] Baecoin v1.1.1.1()
+2017-Jan-23 16:02:52.129206 INFO [daemon] Module folder: ./baecoind
+2017-Jan-23 16:02:52.131299 INFO [daemon] Initializing p2p server...
+2017-Jan-23 16:02:52.132168 INFO [node_server] Binding on 0.0.0.0:22322
+2017-Jan-23 16:02:52.132380 INFO [node_server] Net service binded on 0.0.0.0:22322
+2017-Jan-23 16:02:52.132484 INFO [node_server] Attempting to add IGD port mapping.
+2017-Jan-23 16:02:53.189944 ERROR [node_server] UPNP_AddPortMapping failed.
+2017-Jan-23 16:02:53.190077 INFO [daemon] P2p server initialized OK
+2017-Jan-23 16:02:53.190149 INFO [daemon] Initializing core...
+2017-Jan-23 16:02:53.190566 INFO [Blockchain] Loading blockchain...
+2017-Jan-23 16:02:53.190795 INFO [BlockCacheSerializer] - loading block index...
+2017-Jan-23 16:02:53.191441 INFO [BlockCacheSerializer] - loading transaction map...
+2017-Jan-23 16:02:53.192320 INFO [BlockCacheSerializer] - loading spent keys...
+2017-Jan-23 16:02:53.192403 INFO [BlockCacheSerializer] - loading outputs...
+2017-Jan-23 16:02:53.199138 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2017-Jan-23 16:02:53.199238 INFO [BlockCacheSerializer] Serialization time: 8ms
+2017-Jan-23 16:02:53.199339 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2017-Jan-23 16:02:53.199494 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2017-Jan-23 16:02:53.199582 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2017-Jan-23 16:02:53.200382 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2017-Jan-23 16:02:53.200918 ERROR [Blockchain] Failed to init: genesis block mismatch. Probably you set --testnet flag with data dir with non-test blockchain or another network.
+2017-Jan-23 16:02:53.202373 ERROR [core] Failed to initialize blockchain storage
+2017-Jan-23 16:02:53.202453 ERROR [daemon] Failed to initialize core
+2017-Jan-23 16:02:53.202602 INFO [miner] Mining has been stopped, 0 finished
+2017-Jan-23 16:12:02.560751 INFO [daemon] Baecoin v1.1.1.1()
+2017-Jan-23 16:12:02.576664 INFO [daemon] Module folder: ./baecoind
+2017-Jan-23 16:12:02.578854 INFO [daemon] Initializing p2p server...
+2017-Jan-23 16:12:02.579876 INFO [node_server] Binding on 0.0.0.0:22322
+2017-Jan-23 16:12:02.580076 INFO [node_server] Net service binded on 0.0.0.0:22322
+2017-Jan-23 16:12:02.580158 INFO [node_server] Attempting to add IGD port mapping.
+2017-Jan-23 16:12:03.634737 ERROR [node_server] UPNP_AddPortMapping failed.
+2017-Jan-23 16:12:03.634873 INFO [daemon] P2p server initialized OK
+2017-Jan-23 16:12:03.635022 INFO [daemon] Initializing core...
+2017-Jan-23 16:12:03.635638 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2017-Jan-23 16:12:03.699105 INFO [Blockchain] Blockchain initialized. last block: 0, d1664.h11.m12.s3 time ago, current difficulty: 1
+2017-Jan-23 16:12:03.699247 INFO [daemon] Core initialized OK
+2017-Jan-23 16:12:03.699436 INFO [daemon] Starting core rpc server on address 127.0.0.1:22422
+2017-Jan-23 16:12:03.699608 INFO [daemon] Core rpc server started ok
+2017-Jan-23 16:12:03.699692 INFO [daemon] Starting p2p net loop...
+2017-Jan-23 16:12:03.699763 INFO [node_server] Starting node_server
+2017-Jan-23 16:12:13.739225 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:12:13.739379 INFO [core] 
+2017-Jan-23 16:12:13.739379 INFO [core] **********************************************************************
+2017-Jan-23 16:12:13.739379 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Jan-23 16:12:13.739379 INFO [core] 
+2017-Jan-23 16:12:13.739379 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Jan-23 16:12:13.739379 INFO [core] 
+2017-Jan-23 16:12:13.739379 INFO [core] Use "help" command to see the list of available commands.
+2017-Jan-23 16:12:13.739379 INFO [core] 
+2017-Jan-23 16:12:13.739379 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Jan-23 16:12:13.739379 INFO [core] **********************************************************************
+2017-Jan-23 16:12:25.754770 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:12:30.764232 INFO [daemon] Baecoin v1.1.1.1()
+2017-Jan-23 16:12:30.765173 INFO [daemon] Module folder: ./baecoind
+2017-Jan-23 16:12:30.767208 INFO [daemon] Initializing p2p server...
+2017-Jan-23 16:12:30.768042 INFO [node_server] Binding on 0.0.0.0:22322
+2017-Jan-23 16:12:30.768359 INFO [miner] Mining has been stopped, 0 finished
+2017-Jan-23 16:12:30.769062 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=48, Address already in use
+2017-Jan-23 16:12:32.770052 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:12:44.780811 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:12:51.793414 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:13:03.807060 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:13:15.817257 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:13:22.827482 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:13:34.841878 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:13:46.853817 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:13:58.868739 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:14:05.878813 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:14:12.893352 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:14:24.906362 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:14:36.919627 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:14:43.929937 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:14:50.944109 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:15:02.959005 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:15:14.968748 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:15:26.979504 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:15:38.998333 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:15:45.003384 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:15:52.012790 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:15:59.022883 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:16:06.029031 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:16:18.040782 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:16:25.061328 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:16:32.074245 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:16:39.079630 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:16:46.089276 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:16:58.103326 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:17:10.119310 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:17:17.131262 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:17:24.140670 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:17:36.152066 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:17:48.172700 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:17:55.185133 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:18:07.203502 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:18:19.215861 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:18:31.225302 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:18:38.233378 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:18:50.249880 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:18:57.256640 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:19:04.265267 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:19:11.273492 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:19:18.278679 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Jan-23 16:19:19.024521 INFO [node_server] Stop signal sent
+2017-Jan-23 16:19:19.024531 INFO [node_server] Stopping NodeServer and it's0 connections...
+2017-Jan-23 16:19:19.024911 INFO [node_server] NodeServer loop stopped
+2017-Jan-23 16:19:19.025002 INFO [daemon] p2p net loop stopped
+2017-Jan-23 16:19:19.025086 INFO [daemon] Stopping core rpc server...
+2017-Jan-23 16:19:19.025360 INFO [daemon] Deinitializing core...
+2017-Jan-23 16:19:19.025444 INFO [miner] Mining has been stopped, 0 finished
+2017-Jan-23 16:19:19.025812 INFO [Blockchain] Saving blockchain...
+2017-Jan-23 16:19:19.025975 INFO [BlockCacheSerializer] - saving block index...
+2017-Jan-23 16:19:19.026056 INFO [BlockCacheSerializer] - saving transaction map...
+2017-Jan-23 16:19:19.026129 INFO [BlockCacheSerializer] - saving spent keys...
+2017-Jan-23 16:19:19.026267 INFO [BlockCacheSerializer] - saving outputs...
+2017-Jan-23 16:19:19.026348 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2017-Jan-23 16:19:19.026426 INFO [BlockCacheSerializer] Serialization time: 0ms
+2017-Jan-23 16:19:19.026579 INFO [Blockchain] Saving blockchain indices...
+2017-Jan-23 16:19:19.026769 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2017-Jan-23 16:19:19.026892 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2017-Jan-23 16:19:19.026968 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2017-Jan-23 16:19:19.027121 INFO [daemon] Deinitializing p2p...
+2017-Jan-23 16:19:19.027472 INFO [miner] Mining has been stopped, 0 finished
+2017-Jan-23 16:19:19.028352 INFO [daemon] Node stopped.

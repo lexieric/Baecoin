@@ -1,3 +1,48 @@
 2017-Jan-23 15:23:18.251000 INFO [simplewallet] Baecoin wallet v1.1.1.1()
 2017-Jan-23 15:23:18.254432 ERROR [currency] failed to parse coinbase tx from hard coded blob
 2017-Jan-23 15:23:18.254537 ERROR [currency] Failed to generate genesis block
+2017-Jan-23 16:01:45.822867 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2017-Jan-23 16:01:58.496038 INFO [simplewallet] Generated new wallet: bae1ccfgWcaBKn9XpkpKa9f1g7cjxuxQehCGJcX9EJBsSk2VitR7ReYCaJxdCSYMQsjkx5yoMf8XrVqsMczmz22K6TdXhQYR8e
+2017-Jan-23 16:01:58.496038 INFO [simplewallet] view key: 1e26c2f5b20cc0774aa5193f8f01cb250fcb8ced6061ddd5b1fa191b839d2a05
+2017-Jan-23 16:01:58.496266 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Jan-23 16:02:18.424739 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:22422).
+2017-Jan-23 16:02:18.551775 INFO [simplewallet] Wallet closed
+2017-Jan-23 16:02:25.521054 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2017-Jan-23 16:02:34.252633 ERROR [simplewallet] Failed to initialize wallet
+2017-Jan-23 16:02:40.065073 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2017-Jan-23 16:02:44.260854 ERROR [simplewallet] Failed to initialize wallet
+2017-Jan-23 16:13:12.527952 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2017-Jan-23 16:13:28.717731 INFO [simplewallet] Generated new wallet: bae1pRrLvxdhfyShsfKN7DLR1CTsEfmSyQbcMkX5PxqPeaZHh4Q4GNDQ8Qd433Yovu1hc7DVNzES7BSgKEcdNjwx86sxPbX1ED
+2017-Jan-23 16:13:28.717731 INFO [simplewallet] view key: 275342d44794e6c898a84518d58e8e461ac28410337fe271bb35968342c6d30e
+2017-Jan-23 16:13:28.718027 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Jan-23 16:13:34.251106 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2017-Jan-23 16:19:23.975502 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:22422).
+2017-Jan-23 16:19:32.018199 INFO [simplewallet] Wallet closed
