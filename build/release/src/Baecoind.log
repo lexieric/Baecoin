@@ -1,0 +1,571 @@
+2016-Mar-31 22:35:33.914369 INFO [daemon] Baecoin v1.1.1.1()
+2016-Mar-31 22:35:33.941961 INFO [daemon] Module folder: ./Baecoind
+2016-Mar-31 22:35:33.944915 INFO [daemon] Initializing p2p server...
+2016-Mar-31 22:35:33.946054 INFO [node_server] Binding on 0.0.0.0:22322
+2016-Mar-31 22:35:33.946251 INFO [node_server] Net service binded on 0.0.0.0:22322
+2016-Mar-31 22:35:33.946373 INFO [node_server] Attempting to add IGD port mapping.
+2016-Mar-31 22:35:35.038056 ERROR [node_server] UPNP_AddPortMapping failed.
+2016-Mar-31 22:35:35.038202 INFO [daemon] P2p server initialized OK
+2016-Mar-31 22:35:35.038275 INFO [daemon] Initializing core...
+2016-Mar-31 22:35:35.038890 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2016-Mar-31 22:35:35.149112 INFO [Blockchain] Blockchain initialized. last block: 0, d1366.h16.m35.s35 time ago, current difficulty: 1
+2016-Mar-31 22:35:35.149262 INFO [daemon] Core initialized OK
+2016-Mar-31 22:35:35.149518 INFO [daemon] Starting core rpc server on address 127.0.0.1:22422
+2016-Mar-31 22:35:35.149771 INFO [daemon] Core rpc server started ok
+2016-Mar-31 22:35:35.149869 INFO [daemon] Starting p2p net loop...
+2016-Mar-31 22:35:35.149995 INFO [node_server] Starting node_server
+2016-Mar-31 22:35:35.467475 INFO [protocol] [86.155.95.144:22322 OUT] Sync data returned unknown top block: 0 -> 23 [23 blocks (0 days) behind] 
+2016-Mar-31 22:35:35.467475 INFO [protocol] SYNCHRONIZATION started
+2016-Mar-31 22:35:35.577101 INFO [protocol] [146.148.28.91:22322 OUT] Sync data returned unknown top block: 1 -> 23 [22 blocks (0 days) behind] 
+2016-Mar-31 22:35:35.577101 INFO [protocol] SYNCHRONIZATION started
+2016-Mar-31 22:35:36.407636 INFO [protocol] [130.211.85.55:22322 OUT] Sync data returned unknown top block: 12 -> 23 [11 blocks (0 days) behind] 
+2016-Mar-31 22:35:36.407636 INFO [protocol] SYNCHRONIZATION started
+2016-Mar-31 22:35:36.650611 INFO [core] 
+2016-Mar-31 22:35:36.650611 INFO [core] **********************************************************************
+2016-Mar-31 22:35:36.650611 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2016-Mar-31 22:35:36.650611 INFO [core] 
+2016-Mar-31 22:35:36.650611 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2016-Mar-31 22:35:36.650611 INFO [core] 
+2016-Mar-31 22:35:36.650611 INFO [core] Use "help" command to see the list of available commands.
+2016-Mar-31 22:35:36.650611 INFO [core] 
+2016-Mar-31 22:35:36.650611 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2016-Mar-31 22:35:36.650611 INFO [core] **********************************************************************
+2016-Mar-31 22:35:37.215704 INFO [protocol] [86.155.95.144:22322 OUT] SYNCHRONIZED OK
+2016-Mar-31 22:35:37.216227 INFO [protocol] 
+2016-Mar-31 22:35:37.216227 INFO [protocol] **********************************************************************
+2016-Mar-31 22:35:37.216227 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2016-Mar-31 22:35:37.216227 INFO [protocol] 
+2016-Mar-31 22:35:37.216227 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2016-Mar-31 22:35:37.216227 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2016-Mar-31 22:35:37.216227 INFO [protocol] 
+2016-Mar-31 22:35:37.216227 INFO [protocol] Use "help" command to see the list of available commands.
+2016-Mar-31 22:35:37.216227 INFO [protocol] **********************************************************************
+2016-Mar-31 22:36:28.925349 INFO [miner] Mining has started with 1 threads, good luck!
+2016-Mar-31 22:36:28.925357 INFO [miner] Miner thread was started [0]
+2016-Mar-31 22:36:29.249864 INFO [miner] Found block for difficulty: 59
+2016-Mar-31 22:36:29.471507 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 40
+2016-Mar-31 22:36:29.471507 INFO [Blockchain] id:	<dac38f055e58923f06cc1fe67f0740f8405b8b804ae2c2545814d09c1749bc33>
+2016-Mar-31 22:36:29.471507 INFO [Blockchain] PoW:	<3c72bf51ddb2a7700b12760c4399b5a529e963423d16a76830cbeefd92d40a04>
+2016-Mar-31 22:36:29.471507 INFO [Blockchain] difficulty:	59
+2016-Mar-31 22:36:43.547071 INFO [Blockchain] ###### REORGANIZE on height: 40 of 40 with cum_difficulty 4793
+2016-Mar-31 22:36:43.547071 INFO [Blockchain]  alternative blockchain size: 2 with cum_difficulty 4853
+2016-Mar-31 22:36:43.774551 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 40
+2016-Mar-31 22:36:43.774551 INFO [Blockchain] id:	<a1eb549336444deb7fc72118eafeb288ded7049ca6c216dd14cef96374d7a021>
+2016-Mar-31 22:36:43.774551 INFO [Blockchain] PoW:	<c8e1f7c2addf6aaf63609cc39bb1b3d0c865184bfcf90d63b196a6f8d9429902>
+2016-Mar-31 22:36:43.774551 INFO [Blockchain] difficulty:	59
+2016-Mar-31 22:36:43.775876 INFO [Blockchain] REORGANIZE SUCCESS! on height: 40, new blockchain size: 42
+2016-Mar-31 22:36:48.375276 INFO [miner] Found block for difficulty: 60
+2016-Mar-31 22:36:49.691094 INFO [miner] Found block for difficulty: 61
+2016-Mar-31 22:36:51.665843 INFO [miner] Found block for difficulty: 62
+2016-Mar-31 22:37:01.251366 INFO [miner] Found block for difficulty: 65
+2016-Mar-31 22:37:01.675346 INFO [miner] Found block for difficulty: 66
+2016-Mar-31 22:37:02.503891 INFO [miner] Found block for difficulty: 66
+2016-Mar-31 22:37:02.804871 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 50
+2016-Mar-31 22:37:02.804871 INFO [Blockchain] id:	<95d74377b186898ffc307ebd358603a663cfc61b3b956be08a4a5bd9608df0a9>
+2016-Mar-31 22:37:02.804871 INFO [Blockchain] PoW:	<f0808fd7726b3b519961e6d55b9cae35cd888253d73f15d58067813069b31c02>
+2016-Mar-31 22:37:02.804871 INFO [Blockchain] difficulty:	66
+2016-Mar-31 22:37:03.348207 INFO [miner] Found block for difficulty: 67
+2016-Mar-31 22:37:04.646914 INFO [miner] Found block for difficulty: 68
+2016-Mar-31 22:37:11.367532 INFO [miner] Found block for difficulty: 70
+2016-Mar-31 22:37:15.990580 INFO [miner] Found block for difficulty: 71
+2016-Mar-31 22:37:16.892375 INFO [miner] Found block for difficulty: 71
+2016-Mar-31 22:37:18.273453 INFO [miner] Found block for difficulty: 72
+2016-Mar-31 22:37:46.300612 INFO [miner] Found block for difficulty: 77
+2016-Mar-31 22:37:48.665316 INFO [miner] Found block for difficulty: 78
+2016-Mar-31 22:37:54.522600 INFO [miner] Found block for difficulty: 79
+2016-Mar-31 22:38:01.849138 INFO [miner] Found block for difficulty: 80
+2016-Mar-31 22:38:19.164978 INFO [miner] Found block for difficulty: 81
+2016-Mar-31 22:38:20.580432 INFO [miner] Found block for difficulty: 82
+2016-Mar-31 22:38:22.726755 INFO [miner] Found block for difficulty: 83
+2016-Mar-31 22:38:46.459613 INFO [miner] Found block for difficulty: 89
+2016-Mar-31 22:38:50.138382 INFO [miner] Found block for difficulty: 90
+2016-Mar-31 22:38:54.803962 INFO [miner] Found block for difficulty: 91
+2016-Mar-31 22:39:10.692609 INFO [miner] Found block for difficulty: 94
+2016-Mar-31 22:39:14.703082 INFO [miner] Found block for difficulty: 95
+2016-Mar-31 22:39:17.276461 INFO [miner] Miner thread stopped [0]
+2016-Mar-31 22:39:17.277337 INFO [miner] Mining has been stopped, 0 finished
+2016-Mar-31 23:31:26.105447 INFO [miner] Miner thread was started [0]
+2016-Mar-31 23:31:26.115716 INFO [miner] Mining has started with 1 threads, good luck!
+2016-Mar-31 23:31:34.068638 INFO [miner] Found block for difficulty: 71
+2016-Mar-31 23:31:42.031951 INFO [miner] Found block for difficulty: 73
+2016-Mar-31 23:31:44.213713 INFO [miner] Found block for difficulty: 73
+2016-Mar-31 23:31:46.135911 INFO [miner] Found block for difficulty: 74
+2016-Mar-31 23:31:46.690616 INFO [miner] Found block for difficulty: 75
+2016-Mar-31 23:31:51.956803 INFO [miner] Found block for difficulty: 76
+2016-Mar-31 23:31:52.036824 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 95
+2016-Mar-31 23:31:52.036824 INFO [Blockchain] id:	<2d243c3a7de0d9406c93cc7f00c3b27f9728a321f746a8d454a4ee1a42d2c1f3>
+2016-Mar-31 23:31:52.036824 INFO [Blockchain] PoW:	<327ee1c5c6d274f177c020e023e0a4f98a60000dde84a818efd4efd3aced6102>
+2016-Mar-31 23:31:52.036824 INFO [Blockchain] difficulty:	76
+2016-Mar-31 23:32:04.515323 INFO [miner] Found block for difficulty: 78
+2016-Mar-31 23:32:14.800810 INFO [miner] Found block for difficulty: 79
+2016-Mar-31 23:32:15.239157 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 100
+2016-Mar-31 23:32:15.239157 INFO [Blockchain] id:	<def296a61dda083eaf4726cb7aef224c6e730d27d5609f367f26d1a16b8a4fb7>
+2016-Mar-31 23:32:15.239157 INFO [Blockchain] PoW:	<af74bac6bfd5404a5ce66d2ac98312bc47e8cfe7f90bbd07a7883d664df71b00>
+2016-Mar-31 23:32:15.239157 INFO [Blockchain] difficulty:	79
+2016-Mar-31 23:32:15.568733 INFO [Blockchain] ###### REORGANIZE on height: 100 of 100 with cum_difficulty 9345
+2016-Mar-31 23:32:15.568733 INFO [Blockchain]  alternative blockchain size: 2 with cum_difficulty 9425
+2016-Mar-31 23:32:15.773521 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 100
+2016-Mar-31 23:32:15.773521 INFO [Blockchain] id:	<85b1b25bc12fe043ff3dd78a2faa98b6bbe1cabff651635127e6d0c67df034d9>
+2016-Mar-31 23:32:15.773521 INFO [Blockchain] PoW:	<a84e5d30c2c529042c8bdb3da32fac674e0d04da798484b37af59227ff696c02>
+2016-Mar-31 23:32:15.773521 INFO [Blockchain] difficulty:	79
+2016-Mar-31 23:32:15.774351 INFO [Blockchain] REORGANIZE SUCCESS! on height: 100, new blockchain size: 102
+2016-Mar-31 23:32:18.773638 INFO [miner] Found block for difficulty: 80
+2016-Mar-31 23:32:24.194773 INFO [miner] Found block for difficulty: 82
+2016-Mar-31 23:32:25.503026 INFO [miner] Found block for difficulty: 82
+2016-Mar-31 23:32:26.374354 INFO [miner] Found block for difficulty: 83
+2016-Mar-31 23:32:39.479304 INFO [miner] Found block for difficulty: 84
+2016-Mar-31 23:32:39.777782 INFO [miner] Found block for difficulty: 84
+2016-Mar-31 23:32:41.340874 INFO [miner] Found block for difficulty: 85
+2016-Mar-31 23:32:46.907434 INFO [miner] Found block for difficulty: 86
+2016-Mar-31 23:32:50.301725 INFO [miner] Found block for difficulty: 89
+2016-Mar-31 23:32:57.998425 INFO [miner] Found block for difficulty: 90
+2016-Mar-31 23:33:08.069616 INFO [miner] Miner thread stopped [0]
+2016-Mar-31 23:33:08.070875 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 00:11:01.498421 INFO [miner] Mining has started with 1 threads, good luck!
+2016-Apr-01 00:11:01.498431 INFO [miner] Miner thread was started [0]
+2016-Apr-01 00:11:06.644883 INFO [miner] Found block for difficulty: 88
+2016-Apr-01 00:11:08.789055 INFO [miner] Found block for difficulty: 89
+2016-Apr-01 00:11:15.078588 INFO [miner] Found block for difficulty: 89
+2016-Apr-01 00:11:16.617786 INFO [miner] Found block for difficulty: 90
+2016-Apr-01 00:11:23.172687 INFO [miner] Miner thread stopped [0]
+2016-Apr-01 00:11:23.173575 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 00:25:02.126115 INFO [miner] Miner thread was started [0]
+2016-Apr-01 00:25:02.136972 INFO [miner] Mining has started with 1 threads, good luck!
+2016-Apr-01 00:25:24.855799 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 447
+2016-Apr-01 00:25:24.855799 INFO [Blockchain] id:	<0bd203f01e0646d6584afc64f235ee072781b2bbad29b6e24694f2930e235a6a>
+2016-Apr-01 00:25:24.855799 INFO [Blockchain] PoW:	<f6828c33ca8e18ce0c1125681b02a03d86a6e4d113407266d69cfe9ebd291500>
+2016-Apr-01 00:25:24.855799 INFO [Blockchain] difficulty:	647
+2016-Apr-01 00:25:35.248898 INFO [miner] Found block for difficulty: 690
+2016-Apr-01 00:25:44.441155 INFO [miner] Miner thread stopped [0]
+2016-Apr-01 00:25:44.442015 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 00:26:36.436634 INFO [miner] Mining has started with 2 threads, good luck!
+2016-Apr-01 00:26:36.437762 INFO [miner] Miner thread was started [0]
+2016-Apr-01 00:26:36.448351 INFO [miner] Miner thread was started [1]
+2016-Apr-01 00:27:03.551178 INFO [miner] Found block for difficulty: 882
+2016-Apr-01 00:28:29.552774 INFO [miner] Found block for difficulty: 1070
+2016-Apr-01 00:28:29.783639 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 527
+2016-Apr-01 00:28:29.783639 INFO [Blockchain] id:	<8d9a04a00f7eb35ecd0cf751ebc75d4ced5b982fbd36891f5b5948fc64bbfa7d>
+2016-Apr-01 00:28:29.783639 INFO [Blockchain] PoW:	<8fd6232d14d16d1b61600902591952a31420f8ec09e0e62d6e379ff652db2100>
+2016-Apr-01 00:28:29.783639 INFO [Blockchain] difficulty:	1070
+2016-Apr-01 00:28:31.794987 INFO [Blockchain] ###### REORGANIZE on height: 527 of 527 with cum_difficulty 167418
+2016-Apr-01 00:28:31.794987 INFO [Blockchain]  alternative blockchain size: 2 with cum_difficulty 168495
+2016-Apr-01 00:28:32.434316 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 527
+2016-Apr-01 00:28:32.434316 INFO [Blockchain] id:	<e96d369f7940cb8d80acebe0d9ae17ffabdb8dfdd8a112321227517dd00b0361>
+2016-Apr-01 00:28:32.434316 INFO [Blockchain] PoW:	<a78668e7e50ddc2cc0c22463d96160a6138989696b7b20997f900f877c1e1900>
+2016-Apr-01 00:28:32.434316 INFO [Blockchain] difficulty:	1070
+2016-Apr-01 00:28:32.435576 INFO [Blockchain] REORGANIZE SUCCESS! on height: 527, new blockchain size: 529
+2016-Apr-01 00:28:40.949107 INFO [miner] Found block for difficulty: 1111
+2016-Apr-01 00:30:05.310933 INFO [miner] Found block for difficulty: 1156
+2016-Apr-01 00:30:14.874270 INFO [miner] Found block for difficulty: 1163
+2016-Apr-01 00:30:32.181215 INFO [miner] Found block for difficulty: 1170
+2016-Apr-01 00:32:44.493639 INFO [miner] Found block for difficulty: 1417
+2016-Apr-01 00:34:09.784718 INFO [miner] Found block for difficulty: 1588
+2016-Apr-01 00:34:37.005731 INFO [miner] Found block for difficulty: 1687
+2016-Apr-01 00:34:37.417724 INFO [Blockchain] Block recognized as orphaned and rejected, id = <401a2673aea2776304afc5cce341dc99506b5a405ccbb591f1b365410b526bb4>
+2016-Apr-01 00:34:37.449824 INFO [Blockchain] Block recognized as orphaned and rejected, id = <401a2673aea2776304afc5cce341dc99506b5a405ccbb591f1b365410b526bb4>
+2016-Apr-01 00:34:37.521951 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 603
+2016-Apr-01 00:34:37.521951 INFO [Blockchain] id:	<5680b41cb679726541674af0ff4cf72aa57d33d61b95c2cf765666ec72a5c4ff>
+2016-Apr-01 00:34:37.521951 INFO [Blockchain] PoW:	<ca49fd073c49150d643812a6f2aaea888ca7df1eefceefac1ddb95cc83c91500>
+2016-Apr-01 00:34:37.521951 INFO [Blockchain] difficulty:	1687
+2016-Apr-01 00:34:37.584930 INFO [Blockchain] ###### REORGANIZE on height: 603 of 603 with cum_difficulty 270717
+2016-Apr-01 00:34:37.584930 INFO [Blockchain]  alternative blockchain size: 2 with cum_difficulty 272414
+2016-Apr-01 00:34:37.764590 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 603
+2016-Apr-01 00:34:37.764590 INFO [Blockchain] id:	<8d8622db8d963b448b78a27b9efd7bebe93fea4106cb7bda339da5a25dd44081>
+2016-Apr-01 00:34:37.764590 INFO [Blockchain] PoW:	<e92aaae30053550502bd4976249c705cbf52c0d28aa58405fedb7858111d0200>
+2016-Apr-01 00:34:37.764590 INFO [Blockchain] difficulty:	1687
+2016-Apr-01 00:34:37.765246 INFO [Blockchain] REORGANIZE SUCCESS! on height: 603, new blockchain size: 605
+2016-Apr-01 00:34:37.786052 INFO [protocol] [130.211.85.55:22322 OUT] SYNCHRONIZED OK
+2016-Apr-01 00:35:25.081788 INFO [Blockchain] Block recognized as orphaned and rejected, id = <0087740dbde93843a68a9ceff2c29c5be761da009f5dcf1a6477b1963ea38bbe>
+2016-Apr-01 00:35:25.186435 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 612
+2016-Apr-01 00:35:25.186435 INFO [Blockchain] id:	<800ecc6a1c5ad41b8a2261d69f463ed078d83f0e8c6d41869e55679c78bb1bf4>
+2016-Apr-01 00:35:25.186435 INFO [Blockchain] PoW:	<c77fb5a91093f91ec092b72f19ebc94288d5c37a0ad104cf34a27f805bc61d00>
+2016-Apr-01 00:35:25.186435 INFO [Blockchain] difficulty:	1779
+2016-Apr-01 00:35:25.245019 INFO [Blockchain] ###### REORGANIZE on height: 612 of 612 with cum_difficulty 286359
+2016-Apr-01 00:35:25.245019 INFO [Blockchain]  alternative blockchain size: 2 with cum_difficulty 288148
+2016-Apr-01 00:35:25.417249 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 612
+2016-Apr-01 00:35:25.417249 INFO [Blockchain] id:	<73862613ab94446ebabf4bf5c0b740f4d4f8f11b01e86139adfc8c8ae713710a>
+2016-Apr-01 00:35:25.417249 INFO [Blockchain] PoW:	<5654c4ab258e5be1c84514abfc782fd682d940df4b8df2891f223e042b6b0c00>
+2016-Apr-01 00:35:25.417249 INFO [Blockchain] difficulty:	1779
+2016-Apr-01 00:35:25.417978 INFO [Blockchain] REORGANIZE SUCCESS! on height: 612, new blockchain size: 614
+2016-Apr-01 00:36:22.070561 INFO [miner] Found block for difficulty: 1897
+2016-Apr-01 00:36:31.445808 INFO [miner] Found block for difficulty: 1908
+2016-Apr-01 00:38:21.130966 INFO [miner] Found block for difficulty: 2102
+2016-Apr-01 00:39:34.594936 INFO [miner] Found block for difficulty: 2267
+2016-Apr-01 00:39:58.754700 INFO [miner] Found block for difficulty: 2305
+2016-Apr-01 00:42:26.390798 INFO [miner] Found block for difficulty: 2689
+2016-Apr-01 00:44:22.090854 INFO [miner] Found block for difficulty: 2961
+2016-Apr-01 00:45:09.346971 INFO [miner] Found block for difficulty: 3039
+2016-Apr-01 00:49:04.189838 INFO [miner] Found block for difficulty: 3388
+2016-Apr-01 00:50:04.244013 INFO [miner] Found block for difficulty: 3500
+2016-Apr-01 00:50:04.305193 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 733
+2016-Apr-01 00:50:04.305193 INFO [Blockchain] id:	<41d419b8b9372c8a890c8ea242c14c5fd2d3dee8a06b2442ed4616d97907b863>
+2016-Apr-01 00:50:04.305193 INFO [Blockchain] PoW:	<1124c84224aec6e286a491d08ab6e68937c892b0c50a06a9a87ec92a26b40500>
+2016-Apr-01 00:50:04.305193 INFO [Blockchain] difficulty:	3500
+2016-Apr-01 00:50:43.263897 INFO [miner] Found block for difficulty: 3591
+2016-Apr-01 00:51:56.085449 INFO [miner] Found block for difficulty: 3683
+2016-Apr-01 00:53:14.714544 INFO [miner] Found block for difficulty: 3835
+2016-Apr-01 00:53:25.557409 INFO [miner] Found block for difficulty: 3857
+2016-Apr-01 00:53:46.931058 INFO [miner] Found block for difficulty: 3896
+2016-Apr-01 00:54:11.672329 INFO [miner] Found block for difficulty: 3981
+2016-Apr-01 00:55:39.478240 INFO [miner] Found block for difficulty: 4169
+2016-Apr-01 00:56:17.614938 INFO [miner] Found block for difficulty: 4256
+2016-Apr-01 00:56:25.649845 INFO [miner] Found block for difficulty: 4302
+2016-Apr-01 01:01:09.333415 INFO [miner] Found block for difficulty: 4736
+2016-Apr-01 01:08:30.308870 ERROR [miner] Starting miner but it's already started
+2016-Apr-01 01:15:11.896714 INFO [miner] Miner thread stopped [0]
+2016-Apr-01 01:15:11.932734 INFO [miner] Miner thread stopped [1]
+2016-Apr-01 01:15:11.933614 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 01:15:18.020981 INFO [miner] Mining has started with 1 threads, good luck!
+2016-Apr-01 01:15:18.021215 INFO [miner] Miner thread was started [0]
+2016-Apr-01 01:23:46.069715 INFO [miner] Miner thread stopped [0]
+2016-Apr-01 01:23:46.071562 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 01:23:53.160504 INFO [miner] Mining has started with 2 threads, good luck!
+2016-Apr-01 01:23:53.160836 INFO [miner] Miner thread was started [0]
+2016-Apr-01 01:23:53.169012 INFO [miner] Miner thread was started [1]
+2016-Apr-01 01:25:01.887665 INFO [miner] Found block for difficulty: 10629
+2016-Apr-01 01:33:28.286748 INFO [miner] Found block for difficulty: 11073
+2016-Apr-01 01:51:11.524356 INFO [miner] Found block for difficulty: 12251
+2016-Apr-01 02:06:26.856967 INFO [miner] Found block for difficulty: 12980
+2016-Apr-01 02:07:13.763866 INFO [miner] Found block for difficulty: 13067
+2016-Apr-01 02:20:54.352325 INFO [miner] Found block for difficulty: 13683
+2016-Apr-01 02:23:07.730185 INFO [miner] Found block for difficulty: 13683
+2016-Apr-01 02:25:15.035532 INFO [miner] Found block for difficulty: 13885
+2016-Apr-01 02:27:43.709261 INFO [miner] Found block for difficulty: 14300
+2016-Apr-01 02:28:19.563518 INFO [miner] Found block for difficulty: 14361
+2016-Apr-01 02:57:19.316625 INFO [miner] Found block for difficulty: 21073
+2016-Apr-01 03:15:42.452074 INFO [miner] Found block for difficulty: 21990
+2016-Apr-01 04:58:14.547223 INFO [miner] Found block for difficulty: 31049
+2016-Apr-01 05:18:08.835644 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 1115
+2016-Apr-01 05:18:08.835644 INFO [Blockchain] id:	<e7a6a295a96999334fec233e4d9c8396ac54b80ac7844e08c459c86875cc25b4>
+2016-Apr-01 05:18:08.835644 INFO [Blockchain] PoW:	<198b78e8836738caa51c4698648433656b7ea0b608239a5f2dfa151ee5fa0000>
+2016-Apr-01 05:18:08.835644 INFO [Blockchain] difficulty:	30606
+2016-Apr-01 05:21:13.237420 INFO [Blockchain] ###### REORGANIZE on height: 1115 of 1115 with cum_difficulty 6196626
+2016-Apr-01 05:21:13.237420 INFO [Blockchain]  alternative blockchain size: 2 with cum_difficulty 6227187
+2016-Apr-01 05:21:13.409097 INFO [Blockchain] ----- BLOCK ADDED AS ALTERNATIVE ON HEIGHT 1115
+2016-Apr-01 05:21:13.409097 INFO [Blockchain] id:	<8cb31df478faaaa4c1d1a44eee45848f95b573bb43ebec14c84e0603ecc3ec5e>
+2016-Apr-01 05:21:13.409097 INFO [Blockchain] PoW:	<30b02d594ecd8669aee7f8c432ad6d2d639f5482653a740d262007dc81850100>
+2016-Apr-01 05:21:13.409097 INFO [Blockchain] difficulty:	30606
+2016-Apr-01 05:21:13.409734 INFO [Blockchain] REORGANIZE SUCCESS! on height: 1115, new blockchain size: 1117
+2016-Apr-01 05:33:05.868128 INFO [miner] Found block for difficulty: 31240
+2016-Apr-01 05:51:33.764932 INFO [miner] Found block for difficulty: 30501
+2016-Apr-01 06:24:27.765406 INFO [miner] Found block for difficulty: 30347
+2016-Apr-01 07:19:40.348372 INFO [miner] Found block for difficulty: 30938
+2016-Apr-01 07:27:40.528194 INFO [miner] Found block for difficulty: 31011
+2016-Apr-01 07:27:49.364035 INFO [miner] Found block for difficulty: 30947
+2016-Apr-01 08:29:33.170239 INFO [miner] Found block for difficulty: 30709
+2016-Apr-01 08:35:17.809248 INFO [miner] Found block for difficulty: 30870
+2016-Apr-01 08:45:35.975652 INFO [miner] Found block for difficulty: 30755
+2016-Apr-01 09:38:41.337169 INFO [miner] Found block for difficulty: 30771
+2016-Apr-01 09:38:50.800863 INFO [miner] Found block for difficulty: 30863
+2016-Apr-01 09:39:31.599053 INFO [miner] Found block for difficulty: 31014
+2016-Apr-01 09:40:58.767531 INFO [miner] Found block for difficulty: 30832
+2016-Apr-01 09:49:19.702559 INFO [miner] Found block for difficulty: 30688
+2016-Apr-01 10:13:36.899001 INFO [miner] Found block for difficulty: 30591
+2016-Apr-01 10:18:02.697940 INFO [miner] Found block for difficulty: 30701
+2016-Apr-01 11:10:40.756286 INFO [miner] Found block for difficulty: 30735
+2016-Apr-01 11:19:44.270315 INFO [miner] Found block for difficulty: 30987
+2016-Apr-01 11:30:50.350883 INFO [miner] Found block for difficulty: 30981
+2016-Apr-01 11:58:24.788804 INFO [miner] Found block for difficulty: 30912
+2016-Apr-01 11:59:32.843908 INFO [miner] Found block for difficulty: 31054
+2016-Apr-01 12:17:01.771792 INFO [miner] Found block for difficulty: 31033
+2016-Apr-01 12:54:52.059638 INFO [miner] Found block for difficulty: 31034
+2016-Apr-01 13:13:27.142202 INFO [miner] Miner thread stopped [0]
+2016-Apr-01 13:13:27.153109 INFO [miner] Miner thread stopped [1]
+2016-Apr-01 13:13:27.154479 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 14:10:25.116508 INFO [miner] Mining has started with 2 threads, good luck!
+2016-Apr-01 14:10:25.117360 INFO [miner] Miner thread was started [0]
+2016-Apr-01 14:10:25.117401 INFO [miner] Miner thread was started [1]
+2016-Apr-01 14:10:52.069085 INFO [miner] Miner thread stopped [1]
+2016-Apr-01 14:10:52.134995 INFO [miner] Miner thread stopped [0]
+2016-Apr-01 14:10:52.136311 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 15:15:09.961668 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 15:15:18.961938 INFO [miner] Mining has started with 2 threads, good luck!
+2016-Apr-01 15:15:18.963096 INFO [miner] Miner thread was started [0]
+2016-Apr-01 15:15:18.974346 INFO [miner] Miner thread was started [1]
+2016-Apr-01 15:36:04.738771 INFO [miner] Found block for difficulty: 31263
+2016-Apr-01 15:49:31.955574 INFO [miner] Found block for difficulty: 31016
+2016-Apr-01 15:53:29.780259 INFO [miner] Found block for difficulty: 30905
+2016-Apr-01 15:53:43.851069 INFO [miner] Found block for difficulty: 31026
+2016-Apr-01 16:00:41.471718 INFO [miner] Found block for difficulty: 31155
+2016-Apr-01 16:35:29.802978 INFO [miner] Found block for difficulty: 30966
+2016-Apr-01 16:37:36.915571 INFO [miner] Found block for difficulty: 30830
+2016-Apr-01 16:45:57.365158 INFO [miner] Found block for difficulty: 30592
+2016-Apr-01 17:09:16.905321 INFO [miner] Found block for difficulty: 30722
+2016-Apr-01 18:16:42.385186 INFO [miner] Found block for difficulty: 30820
+2016-Apr-01 18:19:32.696487 WARNING [node_server] [86.155.95.144:22322 OUT] Exception in connectionHandler: TcpConnection::read, recv failed, result=60, Operation timed out
+2016-Apr-01 18:19:33.227393 INFO [miner] Found block for difficulty: 30831
+2016-Apr-01 18:50:39.051025 INFO [miner] Found block for difficulty: 30916
+2016-Apr-01 19:35:08.664124 INFO [miner] Miner thread stopped [0]
+2016-Apr-01 19:35:08.670369 INFO [miner] Miner thread stopped [1]
+2016-Apr-01 19:35:08.699733 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 19:35:20.211167 INFO [node_server] Stop signal sent
+2016-Apr-01 19:35:20.211214 INFO [node_server] Stopping NodeServer and it's3 connections...
+2016-Apr-01 19:35:20.211859 INFO [node_server] NodeServer loop stopped
+2016-Apr-01 19:35:20.211985 INFO [daemon] p2p net loop stopped
+2016-Apr-01 19:35:20.212099 INFO [daemon] Stopping core rpc server...
+2016-Apr-01 19:35:20.222526 INFO [daemon] Deinitializing core...
+2016-Apr-01 19:35:20.222672 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 19:35:20.299228 INFO [Blockchain] Saving blockchain...
+2016-Apr-01 19:35:20.299490 INFO [BlockCacheSerializer] - saving block index...
+2016-Apr-01 19:35:20.300176 INFO [BlockCacheSerializer] - saving transaction map...
+2016-Apr-01 19:35:20.300821 INFO [BlockCacheSerializer] - saving spent keys...
+2016-Apr-01 19:35:20.300906 INFO [BlockCacheSerializer] - saving outputs...
+2016-Apr-01 19:35:20.304420 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2016-Apr-01 19:35:20.304556 INFO [BlockCacheSerializer] Serialization time: 5ms
+2016-Apr-01 19:35:20.304767 INFO [Blockchain] Saving blockchain indices...
+2016-Apr-01 19:35:20.304997 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2016-Apr-01 19:35:20.305080 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2016-Apr-01 19:35:20.305803 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2016-Apr-01 19:35:20.306293 INFO [daemon] Deinitializing p2p...
+2016-Apr-01 19:35:20.310470 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 19:35:20.328069 INFO [daemon] Node stopped.
+2016-Apr-01 19:37:44.950877 INFO [daemon] Baecoin v1.1.1.1()
+2016-Apr-01 19:37:44.975911 INFO [daemon] Module folder: ./Baecoind
+2016-Apr-01 19:37:44.977914 INFO [daemon] Initializing p2p server...
+2016-Apr-01 19:37:45.005869 INFO [node_server] Binding on 0.0.0.0:22322
+2016-Apr-01 19:37:45.006105 INFO [node_server] Net service binded on 0.0.0.0:22322
+2016-Apr-01 19:37:45.006187 INFO [node_server] Attempting to add IGD port mapping.
+2016-Apr-01 19:37:46.133178 ERROR [node_server] UPNP_AddPortMapping failed.
+2016-Apr-01 19:37:46.133335 INFO [daemon] P2p server initialized OK
+2016-Apr-01 19:37:46.133409 INFO [daemon] Initializing core...
+2016-Apr-01 19:37:46.418677 INFO [Blockchain] Loading blockchain...
+2016-Apr-01 19:37:46.434867 INFO [BlockCacheSerializer] - loading block index...
+2016-Apr-01 19:37:46.436404 INFO [BlockCacheSerializer] - loading transaction map...
+2016-Apr-01 19:37:46.437395 INFO [BlockCacheSerializer] - loading spent keys...
+2016-Apr-01 19:37:46.437492 INFO [BlockCacheSerializer] - loading outputs...
+2016-Apr-01 19:37:46.443989 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2016-Apr-01 19:37:46.444124 INFO [BlockCacheSerializer] Serialization time: 24ms
+2016-Apr-01 19:37:46.444235 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2016-Apr-01 19:37:46.444585 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2016-Apr-01 19:37:46.444684 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2016-Apr-01 19:37:46.445700 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2016-Apr-01 19:37:46.450555 INFO [Blockchain] Blockchain initialized. last block: 1209, d0.h0.m47.s8 time ago, current difficulty: 30731
+2016-Apr-01 19:37:46.483813 INFO [daemon] Core initialized OK
+2016-Apr-01 19:37:46.484054 INFO [daemon] Starting core rpc server on address 127.0.0.1:22422
+2016-Apr-01 19:37:46.484230 INFO [daemon] Core rpc server started ok
+2016-Apr-01 19:37:46.484320 INFO [daemon] Starting p2p net loop...
+2016-Apr-01 19:37:46.484393 INFO [node_server] Starting node_server
+2016-Apr-01 19:37:46.694721 INFO [protocol] 
+2016-Apr-01 19:37:46.694721 INFO [protocol] **********************************************************************
+2016-Apr-01 19:37:46.694721 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2016-Apr-01 19:37:46.694721 INFO [protocol] 
+2016-Apr-01 19:37:46.694721 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2016-Apr-01 19:37:46.694721 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2016-Apr-01 19:37:46.694721 INFO [protocol] 
+2016-Apr-01 19:37:46.694721 INFO [protocol] Use "help" command to see the list of available commands.
+2016-Apr-01 19:37:46.694721 INFO [protocol] **********************************************************************
+2016-Apr-01 19:37:46.817810 INFO [core] 
+2016-Apr-01 19:37:46.817810 INFO [core] **********************************************************************
+2016-Apr-01 19:37:46.817810 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2016-Apr-01 19:37:46.817810 INFO [core] 
+2016-Apr-01 19:37:46.817810 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2016-Apr-01 19:37:46.817810 INFO [core] 
+2016-Apr-01 19:37:46.817810 INFO [core] Use "help" command to see the list of available commands.
+2016-Apr-01 19:37:46.817810 INFO [core] 
+2016-Apr-01 19:37:46.817810 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2016-Apr-01 19:37:46.817810 INFO [core] **********************************************************************
+2016-Apr-01 19:38:41.462575 INFO [miner] Mining has started with 1 threads, good luck!
+2016-Apr-01 19:38:41.462603 INFO [miner] Miner thread was started [0]
+2016-Apr-01 22:50:47.623358 INFO [miner] Miner thread stopped [0]
+2016-Apr-01 22:50:47.631191 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-01 22:50:55.558490 INFO [miner] Mining has started with 2 threads, good luck!
+2016-Apr-01 22:50:55.558738 INFO [miner] Miner thread was started [0]
+2016-Apr-01 22:50:55.569367 INFO [miner] Miner thread was started [1]
+2016-Apr-02 00:07:43.410700 INFO [node_server] Stop signal sent
+2016-Apr-02 00:07:43.410844 INFO [node_server] Stopping NodeServer and it's2 connections...
+2016-Apr-02 00:07:44.432316 INFO [node_server] NodeServer loop stopped
+2016-Apr-02 00:07:44.432463 INFO [daemon] p2p net loop stopped
+2016-Apr-02 00:07:44.432612 INFO [daemon] Stopping core rpc server...
+2016-Apr-02 00:07:44.432764 INFO [daemon] Deinitializing core...
+2016-Apr-02 00:07:44.693146 INFO [miner] Miner thread stopped [1]
+2016-Apr-02 00:07:44.714355 INFO [miner] Miner thread stopped [0]
+2016-Apr-02 00:07:45.030684 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-02 00:07:45.114888 INFO [Blockchain] Saving blockchain...
+2016-Apr-02 00:07:45.115115 INFO [BlockCacheSerializer] - saving block index...
+2016-Apr-02 00:07:45.115671 INFO [BlockCacheSerializer] - saving transaction map...
+2016-Apr-02 00:07:45.116388 INFO [BlockCacheSerializer] - saving spent keys...
+2016-Apr-02 00:07:45.116464 INFO [BlockCacheSerializer] - saving outputs...
+2016-Apr-02 00:07:45.118345 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2016-Apr-02 00:07:45.118585 INFO [BlockCacheSerializer] Serialization time: 3ms
+2016-Apr-02 00:07:45.119990 INFO [Blockchain] Saving blockchain indices...
+2016-Apr-02 00:07:45.120215 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2016-Apr-02 00:07:45.120295 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2016-Apr-02 00:07:45.121306 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2016-Apr-02 00:07:45.121714 INFO [daemon] Deinitializing p2p...
+2016-Apr-02 00:07:45.122020 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-02 00:07:45.139553 INFO [daemon] Node stopped.
+2016-Apr-02 00:45:50.340935 INFO [daemon] Baecoin v1.1.1.1()
+2016-Apr-02 00:45:50.350619 INFO [daemon] Module folder: ./Baecoind
+2016-Apr-02 00:45:50.352911 INFO [daemon] Initializing p2p server...
+2016-Apr-02 00:45:50.388070 INFO [node_server] Binding on 0.0.0.0:22322
+2016-Apr-02 00:45:50.388414 INFO [node_server] Net service binded on 0.0.0.0:22322
+2016-Apr-02 00:45:50.388507 INFO [node_server] Attempting to add IGD port mapping.
+2016-Apr-02 00:45:51.486084 ERROR [node_server] UPNP_AddPortMapping failed.
+2016-Apr-02 00:45:51.486245 INFO [daemon] P2p server initialized OK
+2016-Apr-02 00:45:51.486318 INFO [daemon] Initializing core...
+2016-Apr-02 00:45:51.512463 INFO [Blockchain] Loading blockchain...
+2016-Apr-02 00:45:51.534360 INFO [BlockCacheSerializer] - loading block index...
+2016-Apr-02 00:45:51.536105 INFO [BlockCacheSerializer] - loading transaction map...
+2016-Apr-02 00:45:51.537165 INFO [BlockCacheSerializer] - loading spent keys...
+2016-Apr-02 00:45:51.537267 INFO [BlockCacheSerializer] - loading outputs...
+2016-Apr-02 00:45:51.544269 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2016-Apr-02 00:45:51.544400 INFO [BlockCacheSerializer] Serialization time: 18ms
+2016-Apr-02 00:45:51.544515 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2016-Apr-02 00:45:51.544857 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2016-Apr-02 00:45:51.544949 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2016-Apr-02 00:45:51.545965 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2016-Apr-02 00:45:51.577757 INFO [Blockchain] Blockchain initialized. last block: 1209, d0.h5.m55.s13 time ago, current difficulty: 30731
+2016-Apr-02 00:45:51.622952 INFO [daemon] Core initialized OK
+2016-Apr-02 00:45:51.623174 INFO [daemon] Starting core rpc server on address 127.0.0.1:22422
+2016-Apr-02 00:45:51.623357 INFO [daemon] Core rpc server started ok
+2016-Apr-02 00:45:51.623505 INFO [daemon] Starting p2p net loop...
+2016-Apr-02 00:45:51.623581 INFO [node_server] Starting node_server
+2016-Apr-02 00:45:53.522106 INFO [protocol] 
+2016-Apr-02 00:45:53.522106 INFO [protocol] **********************************************************************
+2016-Apr-02 00:45:53.522106 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2016-Apr-02 00:45:53.522106 INFO [protocol] 
+2016-Apr-02 00:45:53.522106 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2016-Apr-02 00:45:53.522106 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2016-Apr-02 00:45:53.522106 INFO [protocol] 
+2016-Apr-02 00:45:53.522106 INFO [protocol] Use "help" command to see the list of available commands.
+2016-Apr-02 00:45:53.522106 INFO [protocol] **********************************************************************
+2016-Apr-02 00:45:58.528493 INFO [core] 
+2016-Apr-02 00:45:58.528493 INFO [core] **********************************************************************
+2016-Apr-02 00:45:58.528493 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2016-Apr-02 00:45:58.528493 INFO [core] 
+2016-Apr-02 00:45:58.528493 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2016-Apr-02 00:45:58.528493 INFO [core] 
+2016-Apr-02 00:45:58.528493 INFO [core] Use "help" command to see the list of available commands.
+2016-Apr-02 00:45:58.528493 INFO [core] 
+2016-Apr-02 00:45:58.528493 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2016-Apr-02 00:45:58.528493 INFO [core] **********************************************************************
+2016-Apr-02 00:46:45.221389 INFO [miner] Mining has started with 1 threads, good luck!
+2016-Apr-02 00:46:45.221401 INFO [miner] Miner thread was started [0]
+2016-Apr-02 00:55:20.381590 INFO [miner] Found block for difficulty: 30731
+2016-Apr-02 01:21:39.174221 INFO [miner] Found block for difficulty: 30818
+2016-Apr-02 02:25:59.070881 INFO [miner] Found block for difficulty: 30277
+2016-Apr-02 02:43:28.209107 INFO [miner] Found block for difficulty: 30325
+2016-Apr-02 03:06:54.978706 INFO [miner] Found block for difficulty: 30193
+2016-Apr-02 03:33:36.483351 INFO [miner] Found block for difficulty: 30195
+2016-Apr-02 04:07:37.139453 INFO [miner] Found block for difficulty: 30250
+2016-Apr-02 04:46:42.650494 INFO [miner] Found block for difficulty: 30261
+2016-Apr-02 06:18:11.088819 INFO [miner] Found block for difficulty: 30368
+2016-Apr-02 06:37:55.228206 INFO [miner] Found block for difficulty: 30252
+2016-Apr-02 06:38:36.691513 INFO [miner] Found block for difficulty: 30199
+2016-Apr-02 08:05:47.620606 INFO [miner] Found block for difficulty: 30281
+2016-Apr-02 08:18:53.555304 INFO [miner] Found block for difficulty: 29798
+2016-Apr-02 08:51:34.769925 INFO [miner] Found block for difficulty: 29908
+2016-Apr-02 08:54:54.673541 INFO [miner] Found block for difficulty: 30019
+2016-Apr-02 09:07:49.234372 INFO [miner] Found block for difficulty: 29954
+2016-Apr-02 09:14:20.444399 INFO [miner] Found block for difficulty: 30046
+2016-Apr-02 09:56:41.842545 INFO [miner] Found block for difficulty: 30169
+2016-Apr-02 10:06:31.531113 INFO [miner] Found block for difficulty: 30177
+2016-Apr-02 10:10:28.627474 INFO [miner] Found block for difficulty: 30157
+2016-Apr-02 10:13:38.310235 INFO [miner] Found block for difficulty: 30110
+2016-Apr-02 11:04:15.695688 INFO [miner] Found block for difficulty: 28770
+2016-Apr-02 11:18:42.014975 INFO [miner] Found block for difficulty: 27494
+2016-Apr-02 11:32:32.102119 INFO [miner] Found block for difficulty: 26734
+2016-Apr-14 12:14:25.155208 INFO [daemon] Baecoin v1.1.1.1()
+2016-Apr-14 12:14:25.329751 INFO [daemon] Module folder: ./Baecoind
+2016-Apr-14 12:14:25.341876 INFO [daemon] Initializing p2p server...
+2016-Apr-14 12:14:25.567855 INFO [node_server] Binding on 0.0.0.0:22322
+2016-Apr-14 12:14:25.568087 INFO [node_server] Net service binded on 0.0.0.0:22322
+2016-Apr-14 12:14:25.568233 INFO [node_server] Attempting to add IGD port mapping.
+2016-Apr-14 12:14:26.784908 ERROR [node_server] UPNP_AddPortMapping failed.
+2016-Apr-14 12:14:26.785073 INFO [daemon] P2p server initialized OK
+2016-Apr-14 12:14:26.785195 INFO [daemon] Initializing core...
+2016-Apr-14 12:14:26.932570 INFO [Blockchain] Loading blockchain...
+2016-Apr-14 12:14:27.046315 WARNING [Blockchain] No actual blockchain cache found, rebuilding internal structures...
+2016-Apr-14 12:14:27.046488 INFO [Blockchain] Height 0 of 1233
+2016-Apr-14 12:14:28.822473 INFO [Blockchain] Height 1000 of 1233
+2016-Apr-14 12:14:29.071808 INFO [Blockchain] Rebuilding internal structures took: 2.02533
+2016-Apr-14 12:14:29.071956 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2016-Apr-14 12:14:29.429398 WARNING [Blockchain] No actual blockchain indices for BlockchainExplorer found, rebuilding...
+2016-Apr-14 12:14:29.429570 INFO [Blockchain] Height 0 of 1233
+2016-Apr-14 12:14:29.825858 INFO [Blockchain] Height 1000 of 1233
+2016-Apr-14 12:14:29.860943 INFO [Blockchain] Rebuilding blockchain indices took: 0.431373
+2016-Apr-14 12:14:29.861171 INFO [Blockchain] Blockchain initialized. last block: 1232, d12.h0.m55.s52 time ago, current difficulty: 26734
+2016-Apr-14 12:14:29.861671 INFO [daemon] Core initialized OK
+2016-Apr-14 12:14:29.861952 INFO [daemon] Starting core rpc server on address 127.0.0.1:22422
+2016-Apr-14 12:14:29.862120 INFO [daemon] Core rpc server started ok
+2016-Apr-14 12:14:29.862217 INFO [daemon] Starting p2p net loop...
+2016-Apr-14 12:14:29.862359 INFO [node_server] Starting node_server
+2016-Apr-14 12:14:36.894361 INFO [protocol] [146.148.28.91:22322 OUT] Sync data returned unknown top block: 1232 -> 1234 [2 blocks (0 days) behind] 
+2016-Apr-14 12:14:36.894361 INFO [protocol] SYNCHRONIZATION started
+2016-Apr-14 12:14:37.093272 INFO [protocol] [146.148.28.91:22322 OUT] SYNCHRONIZED OK
+2016-Apr-14 12:14:37.386652 INFO [protocol] 
+2016-Apr-14 12:14:37.386652 INFO [protocol] **********************************************************************
+2016-Apr-14 12:14:37.386652 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2016-Apr-14 12:14:37.386652 INFO [protocol] 
+2016-Apr-14 12:14:37.386652 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2016-Apr-14 12:14:37.386652 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2016-Apr-14 12:14:37.386652 INFO [protocol] 
+2016-Apr-14 12:14:37.386652 INFO [protocol] Use "help" command to see the list of available commands.
+2016-Apr-14 12:14:37.386652 INFO [protocol] **********************************************************************
+2016-Apr-14 12:14:46.899924 INFO [core] 
+2016-Apr-14 12:14:46.899924 INFO [core] **********************************************************************
+2016-Apr-14 12:14:46.899924 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2016-Apr-14 12:14:46.899924 INFO [core] 
+2016-Apr-14 12:14:46.899924 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2016-Apr-14 12:14:46.899924 INFO [core] 
+2016-Apr-14 12:14:46.899924 INFO [core] Use "help" command to see the list of available commands.
+2016-Apr-14 12:14:46.899924 INFO [core] 
+2016-Apr-14 12:14:46.899924 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2016-Apr-14 12:14:46.899924 INFO [core] **********************************************************************
+2016-Apr-14 12:15:53.238452 INFO [node_server] Stop signal sent
+2016-Apr-14 12:15:53.238460 INFO [node_server] Stopping NodeServer and it's1 connections...
+2016-Apr-14 12:15:54.335320 INFO [node_server] NodeServer loop stopped
+2016-Apr-14 12:15:54.335493 INFO [daemon] p2p net loop stopped
+2016-Apr-14 12:15:54.335584 INFO [daemon] Stopping core rpc server...
+2016-Apr-14 12:15:54.335697 INFO [daemon] Deinitializing core...
+2016-Apr-14 12:15:54.335766 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-14 12:15:54.380733 INFO [Blockchain] Saving blockchain...
+2016-Apr-14 12:15:54.380929 INFO [BlockCacheSerializer] - saving block index...
+2016-Apr-14 12:15:54.381409 INFO [BlockCacheSerializer] - saving transaction map...
+2016-Apr-14 12:15:54.382092 INFO [BlockCacheSerializer] - saving spent keys...
+2016-Apr-14 12:15:54.382172 INFO [BlockCacheSerializer] - saving outputs...
+2016-Apr-14 12:15:54.512349 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2016-Apr-14 12:15:54.512487 INFO [BlockCacheSerializer] Serialization time: 131ms
+2016-Apr-14 12:15:54.512671 INFO [Blockchain] Saving blockchain indices...
+2016-Apr-14 12:15:54.512900 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2016-Apr-14 12:15:54.512983 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2016-Apr-14 12:15:54.513914 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2016-Apr-14 12:15:54.514455 INFO [daemon] Deinitializing p2p...
+2016-Apr-14 12:15:54.517002 INFO [miner] Mining has been stopped, 0 finished
+2016-Apr-14 12:15:54.586458 INFO [daemon] Node stopped.
+2017-Jan-23 14:10:04.127850 INFO [daemon] Baecoin v1.1.1.1()
+2017-Jan-23 14:10:04.155274 INFO [daemon] Module folder: ./baecoind
+2017-Jan-23 14:10:04.157369 INFO [daemon] Initializing p2p server...
+2017-Jan-23 14:10:04.173743 INFO [node_server] Binding on 0.0.0.0:22322
+2017-Jan-23 14:10:04.173944 INFO [node_server] Net service binded on 0.0.0.0:22322
+2017-Jan-23 14:10:04.174050 INFO [node_server] Attempting to add IGD port mapping.
+2017-Jan-23 14:10:05.304694 INFO [node_server] Added IGD port mapping.
+2017-Jan-23 14:10:05.304836 INFO [daemon] P2p server initialized OK
+2017-Jan-23 14:10:05.304962 INFO [daemon] Initializing core...
+2017-Jan-23 14:10:05.342413 INFO [Blockchain] Loading blockchain...
+2017-Jan-23 14:10:05.369650 INFO [BlockCacheSerializer] - loading block index...
+2017-Jan-23 14:10:05.412021 INFO [BlockCacheSerializer] - loading transaction map...
+2017-Jan-23 14:10:05.413469 INFO [BlockCacheSerializer] - loading spent keys...
+2017-Jan-23 14:10:05.413578 INFO [BlockCacheSerializer] - loading outputs...
+2017-Jan-23 14:10:05.421603 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2017-Jan-23 14:10:05.421725 INFO [BlockCacheSerializer] Serialization time: 65ms
+2017-Jan-23 14:10:05.421855 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2017-Jan-23 14:10:05.436286 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2017-Jan-23 14:10:05.436399 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2017-Jan-23 14:10:05.473230 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2017-Jan-23 14:10:05.572689 INFO [Blockchain] Blockchain initialized. last block: 1233, d296.h3.m37.s40 time ago, current difficulty: 26341
+2017-Jan-23 14:10:05.638263 INFO [daemon] Core initialized OK
+2017-Jan-23 14:10:05.638432 INFO [daemon] Starting core rpc server on address 127.0.0.1:22422
+2017-Jan-23 14:10:05.638601 INFO [daemon] Core rpc server started ok
+2017-Jan-23 14:10:05.638691 INFO [daemon] Starting p2p net loop...
+2017-Jan-23 14:10:05.638933 INFO [node_server] Starting node_server
+2017-Jan-23 14:10:20.723648 INFO [core] 
+2017-Jan-23 14:10:20.723648 INFO [core] **********************************************************************
+2017-Jan-23 14:10:20.723648 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Jan-23 14:10:20.723648 INFO [core] 
+2017-Jan-23 14:10:20.723648 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Jan-23 14:10:20.723648 INFO [core] 
+2017-Jan-23 14:10:20.723648 INFO [core] Use "help" command to see the list of available commands.
+2017-Jan-23 14:10:20.723648 INFO [core] 
+2017-Jan-23 14:10:20.723648 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Jan-23 14:10:20.723648 INFO [core] **********************************************************************

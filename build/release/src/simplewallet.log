@@ -1,0 +1,312 @@
+2016-Mar-31 22:36:00.642240 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2016-Mar-31 22:36:22.073059 INFO [simplewallet] Generated new wallet: bae1snysRehP9atqtk8eVESzd7A9ebAL9YgxAbt1QoRhFektgGNBqLdjKRvKTeJqmtD1PqX2R4KxeS9ZDFnfB8LZ3znCkumjYq
+2016-Mar-31 22:36:22.073059 INFO [simplewallet] view key: 166e9a40b58bafc4c754f0cd0d17a6ccc4fbc81ca44de0eba11b88489c82c90c
+2016-Mar-31 22:36:22.073378 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2016-Mar-31 22:36:28.931509 INFO [simplewallet] Mining started in daemon
+2016-Mar-31 22:36:32.009939 INFO [simplewallet] Height 40, transaction 8de61145f43908f88a26aefdac79b1a5cccf1513aba93237a94c3d8749bdd521, received 175915.14968255
+2016-Mar-31 22:36:52.023259 INFO [simplewallet] Height 42, transaction e4546fe46173f413773ac4be91a821326c21c5c414d91fb8e78697d94b87e312, received 175914.81415119
+2016-Mar-31 22:36:52.023454 INFO [simplewallet] Height 43, transaction 2234915e4c7b1c577024af8003e4925f60a5cb5ba949bfc1e26925144542fd41, received 175914.64638575
+2016-Mar-31 22:36:52.023566 INFO [simplewallet] Height 44, transaction f8e944f452b8bbee48d690013869add7535b1f8af5cbf5081e670b03bd05a6ba, received 175914.47862047
+2016-Mar-31 22:37:02.021169 INFO [simplewallet] Height 48, transaction c41c617466fd6fca2da8fb0ff4da1dce214b035c5388f62c9bc519f28c3f842e, received 175913.80756095
+2016-Mar-31 22:37:02.021349 INFO [simplewallet] Height 49, transaction aea1a0a5a53cfc15ae0f889d367cfa408aa2c304afc86b5951f5c2dc28c42d5a, received 175913.63979647
+2016-Mar-31 22:37:07.042575 INFO [simplewallet] Height 50, transaction 32a878648c621824aded1ba0e2a71911e0c126b98b9f38baaf915efe5e2f507c, received 175913.47203215
+2016-Mar-31 22:37:07.042756 INFO [simplewallet] Height 51, transaction 6d253569b84d9ad757670293f60bc3d08d858dd049c723cc129e2d5bcb7e51d8, received 175913.30426799
+2016-Mar-31 22:37:07.042865 INFO [simplewallet] Height 52, transaction b4361e25b25276f1171e2c96461ede38552c11aeb439af934f006557a2039f6d, received 175913.13650399
+2016-Mar-31 22:37:12.025270 INFO [simplewallet] Height 54, transaction f5c6e102a5d69a414805ebb25acb9a3d10778b77601d267afcc7d81e302ca488, received 175912.80097647
+2016-Mar-31 22:37:17.029898 INFO [simplewallet] Height 55, transaction 22de8d57ce2683bc0305305525a3a4550e4a5d7bbbaaa1f47ef1856ba6f5c03e, received 175912.63321295
+2016-Mar-31 22:37:17.030087 INFO [simplewallet] Height 56, transaction fdbf7e158474ebc5c09d6bd3129c192330af5e41c5588c9f5dfb4553f66a6246, received 175912.46544959
+2016-Mar-31 22:37:22.035566 INFO [simplewallet] Height 57, transaction 7988b0d276aec9db20a28b3820b64fe7476ad42c3ab58fa81d8474ace2231308, received 175912.29768639
+2016-Mar-31 22:37:47.053039 INFO [simplewallet] Height 62, transaction a9527de28b36ed300eedac0e599a78e7ee824704410eb266b55295c41e2476ee, received 175911.45887279
+2016-Mar-31 22:37:52.059696 INFO [simplewallet] Height 64, transaction 3522ebf540ef0e586ef22fff66d9189fcdba6d7f711058bc19b4aa465110345c, received 175911.12334847
+2016-Mar-31 22:37:57.078258 INFO [simplewallet] Height 65, transaction d833e0905cc8030597b0da8e85ea2fb6c142a3241f65189f972d3620f3e766ad, received 175910.95558655
+2016-Mar-31 22:38:02.062337 INFO [simplewallet] Height 66, transaction e5b017dbf11d99ac0898c1874751ecd1b78cacbb7ec711174a9b21b97985d5f4, received 175910.78782479
+2016-Mar-31 22:38:22.077057 INFO [simplewallet] Height 67, transaction ab28b5802d81f3df11e6a86217eba2fcf336c53f0930606ddb18ccc4a86d4d16, received 175910.62006319
+2016-Mar-31 22:38:22.077259 INFO [simplewallet] Height 68, transaction e056d6b8fb3b29bc18f5c17941cdfe27c5050b9efbd9dcf2fd31f0f6aadfb18f, received 175910.45230175
+2016-Mar-31 22:38:27.083187 INFO [simplewallet] Height 69, transaction 08858a3f21b68eed002fada68290b330b904dcef37fb00b9eb09ba6f94ea49c0, received 175910.28454047
+2016-Mar-31 22:38:47.092808 INFO [simplewallet] Height 75, transaction a099aab77d9d763f58754b7e9202a95854e2903b7eaea147ec001c8129a0b157, received 175909.27797614
+2016-Mar-31 22:38:52.093403 INFO [simplewallet] Height 76, transaction b971ac9f6a698585d0cd498c5bc8fd73ee09ff5be92ae5b8a45dabe7425d1327, received 175909.11021598
+2016-Mar-31 22:38:57.096298 INFO [simplewallet] Height 77, transaction 962fd4c7d60d35290d62ab36007728ec6188665dd083e3a230783a8d9528ba0c, received 175908.94245598
+2016-Mar-31 22:39:12.112065 INFO [simplewallet] Height 80, transaction 4a4521aa0d100d7fb888b25b64c887f61ed4a4e1dd511568e95d074fc55fb189, received 175908.43917694
+2016-Mar-31 22:39:17.113774 INFO [simplewallet] Height 81, transaction f8b9098be85e3943ff58ca706e7dca8c45aa159a82b7e5ecf4ca6febc37a86c8, received 175908.27141758
+2016-Mar-31 22:39:17.277688 INFO [simplewallet] Mining stopped in daemon
+2016-Mar-31 22:39:20.538659 INFO [simplewallet] available balance: 0.00000000, locked amount: 4221881.22042499
+2016-Mar-31 23:31:26.116267 INFO [simplewallet] Mining started in daemon
+2016-Mar-31 23:31:34.833957 INFO [simplewallet] Height 86, transaction 0d9890f0e947c8a694aad038e5264e00e9ccc511c17e25ea189b85a5f3b8e084, received 175907.43262318
+2016-Mar-31 23:31:44.848183 INFO [simplewallet] Height 90, transaction 03a1febecf528fe458754bc798587d6a98bc5ebd6cb44ac7d0ea7e03b758a389, received 175906.76159054
+2016-Mar-31 23:31:44.848384 INFO [simplewallet] Height 91, transaction 80bf3624ad382966ad53b8e29d8a941dea2c21ed664efebef0b5828ab6d4a035, received 175906.59383278
+2016-Mar-31 23:31:49.844983 INFO [simplewallet] Height 92, transaction a5231a8f04061387f42a49c4d884d4924bf4693e84e0335420e83e87c4590c5d, received 175906.42607518
+2016-Mar-31 23:31:49.845151 INFO [simplewallet] Height 93, transaction f955daeee2d98a10303e004dfc568b1ffabe00ef5dd241e0aae343f7a8dfed9f, received 175906.25831774
+2016-Mar-31 23:32:04.853851 INFO [simplewallet] Height 98, transaction 92c011e44411041a3650b02a85ff2c8537338255fac7d34bdeac9f707a000bf9, received 175905.41953293
+2016-Mar-31 23:32:14.896078 INFO [simplewallet] Height 100, transaction 7271b4301d252a944c3500a9d33be99cb45570589aa6929d2f8639a2de2c05cf, received 175905.08402013
+2016-Mar-31 23:32:19.903268 INFO [simplewallet] Height 102, transaction 34fe68da24a77a8ed4afce0c2d7b61833727a7d85da0289ea72345710e5139f5, received 175904.74850797
+2016-Mar-31 23:32:24.922773 INFO [simplewallet] Height 104, transaction c0f69aa42f0a29f0ab683da7113be95d3904cc59c2a94a9805beab2bc6029858, received 175904.41299645
+2016-Mar-31 23:32:29.909089 INFO [simplewallet] Height 105, transaction 101ab6ba55631c848c37e1dbc29dab790bae54142bb7a50bda11e479ebb4118a, received 175904.24524093
+2016-Mar-31 23:32:29.909265 INFO [simplewallet] Height 106, transaction 56358b3d86dd993f1755e4103778e5236f489b6a91f96a0539da30160fba9d84, received 175904.07748557
+2016-Mar-31 23:32:39.918034 INFO [simplewallet] Height 107, transaction de980785ca926630bf9b26770b8bbc9d57a49790b9a11025d34d31c69d0264f4, received 175903.90973036
+2016-Mar-31 23:32:39.918219 INFO [simplewallet] Height 108, transaction 7f4361ed33f8dd3bbfc916881a90b3bc2b1b5b615aa6efabf8e32919ba424fd9, received 175903.74197532
+2016-Mar-31 23:32:44.918699 INFO [simplewallet] Height 109, transaction 286e26f7493de3730b705e3d05f239278341b4a9fe6e42f1ffff30f7193924d3, received 175903.57422044
+2016-Mar-31 23:32:49.928501 INFO [simplewallet] Height 110, transaction 31534c2cc2337af547a6c52458649319a37f28c455cc8755d488df3ddff59964, received 175903.40646572
+2016-Mar-31 23:32:54.931744 INFO [simplewallet] Height 114, transaction f992e56c025ead0cfd763e8be3eafa35e48eff5b45d2b55dbe6acd82385f7ff4, received 175902.73544844
+2016-Mar-31 23:32:59.951930 INFO [simplewallet] Height 116, transaction 44ae877ac4d86a5ce2dcd6763f337aa405260e39ac7ffaae299837d0a74676c8, received 175902.39994076
+2016-Mar-31 23:33:08.071256 INFO [simplewallet] Mining stopped in daemon
+2016-Mar-31 23:33:12.031449 INFO [simplewallet] available balance: 2110961.49664436, locked amount: 4925395.86776494
+2016-Mar-31 23:33:48.047246 INFO [simplewallet] available balance: 2286872.95551715, locked amount: 4749484.40889215
+2016-Apr-01 00:11:01.510429 INFO [simplewallet] Mining started in daemon
+2016-Apr-01 00:11:11.547577 INFO [simplewallet] Height 137, transaction 3e59bb4739a832a2b642d0149e1ae5f07d8fc6ede4c0f0be8e268add3cc504a4, received 175898.87714873
+2016-Apr-01 00:11:11.547767 INFO [simplewallet] Height 138, transaction 5881fe6f0c77a9c2886b9c08ee9a02269e8e20c512e30f806a0c077c8a0d9510, received 175898.70939849
+2016-Apr-01 00:11:16.550017 INFO [simplewallet] Height 139, transaction 5771959567ad70829d72010971eb6dca48365f21781258cab26f3c8f57e4bd76, received 175898.54164841
+2016-Apr-01 00:11:21.553919 INFO [simplewallet] Height 140, transaction 8f97dc59921c5ef28255b848c3e6419f23339ab1d2f40994acc4380b22b5d8e3, received 175898.37389849
+2016-Apr-01 00:11:23.173889 INFO [simplewallet] Mining stopped in daemon
+2016-Apr-01 00:25:02.137613 INFO [simplewallet] Mining started in daemon
+2016-Apr-01 00:25:37.252555 INFO [simplewallet] Height 457, transaction 2fbafa1e3f07b3ca47f2582851ac57830a17e506b12c4dac13b465a829888ed5, received 175845.20523598
+2016-Apr-01 00:25:44.442370 INFO [simplewallet] Mining stopped in daemon
+2016-Apr-01 00:25:53.243880 ERROR [simplewallet] Error: invalid arguments. Please use start_mining [<number_of_threads>], <number_of_threads> should be from 1 to 2
+2016-Apr-01 00:26:36.447975 INFO [simplewallet] Mining started in daemon
+2016-Apr-01 00:27:07.314030 INFO [simplewallet] Height 496, transaction d170282d17504e06d2ad884903125c9ef301ea158b086c0d9953eb0786a8852e, received 175838.66509131
+2016-Apr-01 00:28:42.535455 INFO [simplewallet] Height 533, transaction 557893df3b9adac21e66406b4e052ffaaca692bf5451b19eb2dedcbb77b30eb0, received 175832.46056353
+2016-Apr-01 00:30:07.618330 INFO [simplewallet] Height 540, transaction 35bc75438f0d3928182ea35330b9031bf523c47b8ec586f8e98f5938420800e5, received 175831.28675857
+2016-Apr-01 00:30:17.626055 INFO [simplewallet] Height 541, transaction b0e8012490b5de5e9f624a1d8b5838d216f938dd91877fab2a1e7a38ce6d7851, received 175831.11907279
+2016-Apr-01 00:30:32.636838 INFO [simplewallet] Height 542, transaction 79fb7b7d2e857d266a3f58d6da52bbf45725bff019de3d5284168c766f011a10, received 175830.95138717
+2016-Apr-01 00:32:47.897630 INFO [simplewallet] Height 574, transaction 279c8be199fd2d770924c416c37248b606150eeae4ba7448331073da1e48f671, received 175825.58553169
+2016-Apr-01 00:34:12.955739 INFO [simplewallet] Height 593, transaction 5a6e229e64e5f16423344e5964f76c9651cf87656f626746c47e6b5449db96dd, received 175822.39963248
+2016-Apr-01 00:34:19.489120 INFO [simplewallet] available balance: 8267468.19739424, locked amount: 879141.34238270
+2016-Apr-01 00:36:23.074640 INFO [simplewallet] Height 623, transaction b1ffaaf9e2365b755c221ce341dbf336ab80f59fdbd6c216fa3b01586f8195ae, received 175817.36938284
+2016-Apr-01 00:36:33.076956 INFO [simplewallet] Height 624, transaction a9b9a5e5332b8d720bff238398cf1c19b7d3f37206498eb170206b3131929ce3, received 175817.20171033
+2016-Apr-01 00:38:23.220109 INFO [simplewallet] Height 641, transaction 2ef8dda266efa34a0de7166599bd3a47529518078063d0c4238cb4b798fc57e5, received 175814.35130213
+2016-Apr-01 00:39:38.280389 INFO [simplewallet] Height 654, transaction f30bc6eeeaac0c11fc8aadbf10d0b6298d7633f3c660cc90c01cccfc2f2ae34f, received 175812.17160939
+2016-Apr-01 00:40:03.347796 INFO [simplewallet] Height 657, transaction c8568bcf2602702399df22da38236b1a5b538335fb156736d7684a65903db785, received 175811.66860722
+2016-Apr-01 00:42:28.477397 INFO [simplewallet] Height 684, transaction 9688411da45c7c01a3b0d17340536a462bf70c6251a18bb06c59cd268f29815e, received 175807.14165237
+2016-Apr-01 00:44:23.534418 INFO [simplewallet] Height 701, transaction 340be40dcf6fa09fb56da1af8950802499c8ee3373e08975df9f8035e55d81af, received 175804.29140727
+2016-Apr-01 00:45:13.668923 INFO [simplewallet] Height 706, transaction ef46b4cf5cfbf124c6313199ceb39cda20cd2d33d75ec1ef0bca30e99f979d2a, received 175803.45310869
+2016-Apr-01 00:49:08.870029 INFO [simplewallet] Height 727, transaction 9afd7df5a7877860472218acbdf7d5ed153e5bcb56c8731017694d3366540650, received 175799.93229827
+2016-Apr-01 00:50:43.933494 INFO [simplewallet] Height 738, transaction 386262f2d9d5fb482f4d4dd7a923fcbdab8ffa0995837ae899132bae885d422a, received 175798.08809238
+2016-Apr-01 00:51:59.073836 INFO [simplewallet] Height 743, transaction c74ce3f3bdf1c709623118ba7bd7fbaeac87c9a38155a702331c5b825c30dc00, received 175797.24982337
+2016-Apr-01 00:53:19.154236 INFO [simplewallet] Height 751, transaction 9a39aa90dea2fca224dbb8439ec87f85bd15a4776e57e2bdbc221c539eb89dd5, received 175795.90860127
+2016-Apr-01 00:53:29.142664 INFO [simplewallet] Height 752, transaction 69fb3371b4c82f2b3020ff2df3f41d189cfca5735b445f60e75ba7e98a1e37ee, received 175795.74094923
+2016-Apr-01 00:53:49.161129 INFO [simplewallet] Height 754, transaction fd9bedc0f2bb687446bd2df340a5a7db82ed09f94f00dc47e5836186d9a10e1e, received 175795.40564562
+2016-Apr-01 00:54:14.179331 INFO [simplewallet] Height 758, transaction 5bbc003c4c0e472568d93a875acd54fd218b24b2d7de97f22a86a1784566c3d2, received 175794.73504032
+2016-Apr-01 00:55:44.242545 INFO [simplewallet] Height 767, transaction b41593beae8c93e02327f97322218eeefbca3d033471ab88b3937d4ccb13a737, received 175793.22618777
+2016-Apr-01 00:56:19.275434 INFO [simplewallet] Height 771, transaction ac16b608454cf81fda2de0f287d6c31bdd3b6150edcc4884abe473344a648482, received 175792.55559079
+2016-Apr-01 00:56:25.336564 INFO [simplewallet] available balance: 10553097.18855718, locked amount: 1582162.84222902
+2016-Apr-01 00:56:29.278630 INFO [simplewallet] Height 773, transaction 13a4a352093ee67bfa06e04040aeca705e7f5c35281a60d0484f753806e82fe0, received 175792.22029326
+2016-Apr-01 01:01:09.499968 INFO [simplewallet] Height 793, transaction 4e3b89d799ed50e36cd03dd66bdbd9963cd09f9185b1996559d69309cab1b89b, received 175788.86735312
+2016-Apr-01 01:05:12.093851 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2016-Apr-01 01:05:28.429132 INFO [simplewallet] available balance: 11080492.45877120, locked amount: 1406348.65966138
+2016-Apr-01 01:08:30.309998 ERROR [simplewallet] Error: mining has NOT been started: Failed,miningnotstarted
+2016-Apr-01 01:09:42.571262 INFO [simplewallet] available balance: 11959467.47519541, locked amount: 527373.64323717
+2016-Apr-01 01:09:53.756391 INFO [simplewallet] Wallet data saved
+2016-Apr-01 01:15:11.933914 INFO [simplewallet] Mining stopped in daemon
+2016-Apr-01 01:15:18.026949 INFO [simplewallet] Mining started in daemon
+2016-Apr-01 01:23:46.071966 INFO [simplewallet] Mining stopped in daemon
+2016-Apr-01 01:23:53.168549 INFO [simplewallet] Mining started in daemon
+2016-Apr-01 01:25:05.665458 INFO [simplewallet] Height 863, transaction 6ddcdfdd2341bcc8a002c2fe76d86845932ab64053511d4414f9b21b71135347, received 175777.13256627
+2016-Apr-01 01:33:31.096177 INFO [simplewallet] Height 879, transaction 699173306584f0a9962b48d92a42d26f492590a172caa06ddd978758aff0551f, received 175774.45043927
+2016-Apr-01 01:51:11.973287 INFO [simplewallet] Height 914, transaction b76a791fa46a8f30ab7005fe8caf486104e5c8de4c93eac777e263b592082d1e, received 175768.58342912
+2016-Apr-01 02:06:27.785547 INFO [simplewallet] Height 940, transaction 7dbe97ba1f7f8a4909db6a8e134d1880d625807204e20c94b88b659c2465027b, received 175764.22520550
+2016-Apr-01 02:07:17.818073 INFO [simplewallet] Height 943, transaction 0f865fd24d5bba84c53f7935dc95b0eef6d0dcf2a1ad83404aa7beec38d17fed, received 175763.72234050
+2016-Apr-01 02:20:58.456291 INFO [simplewallet] Height 966, transaction ddd1ddd4a32b307e096de495c2bf0beedc2b4a9d874da91f8e16a9be6d6796d2, received 175759.86708995
+2016-Apr-01 02:23:08.620842 INFO [simplewallet] Height 975, transaction 35b3670b7c3d828f54bb720dde1bcd5624ca76878a7f100787fd1477fe4c5ea7, received 175758.35853666
+2016-Apr-01 02:25:18.776595 INFO [simplewallet] Height 979, transaction 69ee583c00184cd4ebdd452be5ac25a0b4d8e5384356252cfd448540965303dc, received 175757.68807269
+2016-Apr-01 02:27:43.972876 INFO [simplewallet] Height 985, transaction 8403a99afcf69079a80f49302de0b2317612e50ea539b13c4af533757f232922, received 175756.68238153
+2016-Apr-01 02:28:24.037176 INFO [simplewallet] Height 987, transaction 7ee3a5092b4f488d8184ed865028e87f6bd3b8f99f06a1babf7d2a2030491f86, received 175756.34715242
+2016-Apr-01 02:57:21.438729 INFO [simplewallet] Height 1013, transaction 8273203f09b87036264b836f231f45835a06e9edb438b680f9307251a3d0b1e0, received 175751.98923220
+2016-Apr-01 02:58:18.281386 INFO [simplewallet] available balance: 13365689.23241324, locked amount: 1054540.93246545
+2016-Apr-01 03:15:47.377336 INFO [simplewallet] Height 1032, transaction 5131bf5263748198993710a895d6bd59ffa909aa810deaae0157e86e632682df, received 175748.80466653
+2016-Apr-01 04:58:15.490994 INFO [simplewallet] Height 1100, transaction 1ad34cba3228b11c0cfd74936c7f14604d35e6c68d6d4c397e8412d45dbb133f, received 175737.40774641
+2016-Apr-01 05:33:08.256321 INFO [simplewallet] Height 1125, transaction 21c0575e6d52d44f21e13c7d83ac5d613f4ddece130c8887511b454198f1d8d0, received 175733.21788805
+2016-Apr-01 05:51:34.694161 INFO [simplewallet] Height 1135, transaction d523447cccf2237d5ee55578151b64e2efb5479ad12611446ac2111bca87859a, received 175731.54197268
+2016-Apr-01 06:24:32.378751 INFO [simplewallet] Height 1152, transaction daa8dbc18d19df0ef46fc6e6e25f97eb2a026cfbc926fa071ddb240cbafce87d, received 175728.69295323
+2016-Apr-01 07:19:41.718240 INFO [simplewallet] Height 1157, transaction 3426623682f2e26c423fe22133b05c0e44b0ed212d72b2206d8da4808488e6c3, received 175727.85501512
+2016-Apr-01 07:27:42.363132 INFO [simplewallet] Height 1158, transaction fe883ec882957df45040c7515f26280da9fe19806939f8d0717de2ade4bcf188, received 175727.68742798
+2016-Apr-01 07:27:52.381185 INFO [simplewallet] Height 1159, transaction 8b7314177aa087fef70b9220a4629a6af766455011b16ef4adbdada59c1e6737, received 175727.51984100
+2016-Apr-01 08:29:37.270358 INFO [simplewallet] Height 1165, transaction 42db24e8fe84ddc05d26127b38b752885d918a1c79df4caf2f7c29152df978b6, received 175726.51432246
+2016-Apr-01 08:35:22.706960 INFO [simplewallet] Height 1166, transaction e868be3e95aa48e469d718ca752acce4a4d04fb05b12792f40a015271f4c97b3, received 175726.34673660
+2016-Apr-01 08:45:38.516534 INFO [simplewallet] Height 1167, transaction bc3065ba8869293932f5315d15e0e491ac1bfc7907c4e195facdbc0b016ac4bb, received 175726.17915089
+2016-Apr-01 09:38:42.688729 INFO [simplewallet] Height 1171, transaction b32a807158b8ddc2222250906b6ea686536dceeca0b0462669f6b265c6880080, received 175725.50880968
+2016-Apr-01 09:38:52.702118 INFO [simplewallet] Height 1172, transaction 445bcf24fa4caaad1ca94293aee376d77be569c43f9527528eba65d258fbd523, received 175725.34122477
+2016-Apr-01 09:39:32.762692 INFO [simplewallet] Height 1173, transaction 2815ec3befcf238934084fffaf954cacd60e8f0e9a9b152a62114ae43c43fa60, received 175725.17364003
+2016-Apr-01 09:41:02.881279 INFO [simplewallet] Height 1174, transaction 6de60a78fb13d1fe826dfe0cc1014d347f13d574a61a678c34c15f72c6f9f781, received 175725.00605544
+2016-Apr-01 09:49:23.534449 INFO [simplewallet] Height 1175, transaction a4182aa5803588383a5c5cdc1094eece98d4e01566911000f39a0cb72f812523, received 175724.83847102
+2016-Apr-01 10:13:40.392411 INFO [simplewallet] Height 1176, transaction 27c65c1120d30b288f67788e955ceb1d63e64a445ec16e01ac34cc448f12082f, received 175724.67088675
+2016-Apr-01 10:18:05.754816 INFO [simplewallet] Height 1177, transaction 6a7b0ebdcd1e5d88e0583d45b44b2ec5a34493a50d480c81d2446ba0cfec4b8e, received 175724.50330265
+2016-Apr-01 11:10:44.931594 INFO [simplewallet] Height 1181, transaction 1be0dd4fbe4bdc1eb61f9691c36b9a6d109488bf85610e2ffee53555beead47a, received 175723.83296782
+2016-Apr-01 11:19:45.605275 INFO [simplewallet] Height 1183, transaction da97a1b942ecb8ca95abd7fd8f47b7bd683e558e6cf8feb05965d88c400abe3a, received 175723.49780137
+2016-Apr-01 11:30:51.486655 INFO [simplewallet] Height 1184, transaction eee3b4ab676d0ac36743c4b3cddb0f776cc7062a233efdb89714c1d723a3689d, received 175723.33021838
+2016-Apr-01 11:58:28.715450 INFO [simplewallet] Height 1187, transaction e81a0b19694722052fe7d136a287abbc90960e33f4d4936123dca6af05775770, received 175722.82747038
+2016-Apr-01 11:59:33.799258 INFO [simplewallet] Height 1188, transaction 137784914be70166b72d9cee43bd65a2558f68162e0f6a992ca228494b5165a0, received 175722.65988803
+2016-Apr-01 12:17:05.233207 INFO [simplewallet] Height 1190, transaction 9b6acf3245598b33864de858b01d429d6bd194287fe6a225e47c86424d5f624d, received 175722.32472382
+2016-Apr-01 12:54:53.263657 INFO [simplewallet] Height 1193, transaction 915908e2be9fc4d7ded938d79f6c7b88e8965d4d5e7a9946cc6f27fffe88c9a7, received 175721.82197870
+2016-Apr-01 13:13:27.154868 INFO [simplewallet] Mining stopped in daemon
+2016-Apr-01 13:20:26.576157 INFO [simplewallet] available balance: 14947449.59517968, locked amount: 3865957.67485880
+2016-Apr-01 13:55:59.672853 INFO [simplewallet] available balance: 14947449.59517968, locked amount: 3865957.67485880
+2016-Apr-01 13:59:32.455640 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2016-Apr-01 13:59:50.827409 INFO [simplewallet] 1193
+2016-Apr-01 14:03:35.197900 INFO [simplewallet] available balance: 14947449.59517968, locked amount: 3865957.67485880
+2016-Apr-01 14:10:25.142918 INFO [simplewallet] Mining started in daemon
+2016-Apr-01 14:10:52.136668 INFO [simplewallet] Mining stopped in daemon
+2016-Apr-01 15:15:18.973991 INFO [simplewallet] Mining started in daemon
+2016-Apr-01 15:36:06.365121 INFO [simplewallet] Height 1196, transaction daa8542254b0b26be02650af4c2dfab66eabacb1d502822b02dbb9f89980575a, received 175721.31923501
+2016-Apr-01 15:49:32.128701 INFO [simplewallet] Height 1198, transaction 479c0e33727f433fc6d6bf791072007856b4d1f37ef276d981fb8950db1b00f4, received 175720.98407335
+2016-Apr-01 15:53:32.353724 INFO [simplewallet] Height 1199, transaction b582f3d05f02b14a8a7aa85647be926b61c68e75b1437680ec0745bc368351bb, received 175720.81649276
+2016-Apr-01 15:53:47.348707 INFO [simplewallet] Height 1200, transaction 194ae18271bebdcbc3e027689859e272297919028c90be25606f746f0ed3f0f9, received 175720.64891233
+2016-Apr-01 16:00:42.919790 INFO [simplewallet] Height 1201, transaction 56f85a9c0d4fb3863b7729f0975bab1f42d52cb5e6f01486dfb607b69e7d2b33, received 175720.48133206
+2016-Apr-01 16:35:30.729154 INFO [simplewallet] Height 1202, transaction 7887b31413c8fcbc8f2b5d0dd9ca5184d8d3e069aa87e97d38ee325720126804, received 175720.31375195
+2016-Apr-01 16:37:40.905129 INFO [simplewallet] Height 1203, transaction 3e916ea409b93477f6249af06daf9009be091912766cf7530bd4b8217b41c3e9, received 175720.14617200
+2016-Apr-01 16:46:01.585413 INFO [simplewallet] Height 1204, transaction d56017d88ffb22946dc32584307af4f3f68837a7bc41a983cafa39dc29c80341, received 175719.97859221
+2016-Apr-01 17:09:17.826644 INFO [simplewallet] Height 1206, transaction 3c5348768390a026bc901e3f54adea0a592c364964b5d0a5d331a266164c1367, received 175719.64343311
+2016-Apr-01 18:16:46.197334 INFO [simplewallet] Height 1207, transaction 777072cc5277ebd337c3b412fa906655052c3b7d89099a59444e0674a1f00b0b, received 175719.47585380
+2016-Apr-01 18:19:36.317861 INFO [simplewallet] Height 1208, transaction 0426eb790faa5d0de5397c0517c1116a6f5f9b43b2e9d32ecbb1968cace6caa8, received 175719.30827465
+2016-Apr-01 18:50:42.854585 INFO [simplewallet] Height 1209, transaction 4b5fda783bc957c5f3fa425e3d63c5bcc054d773db96987ab379592288c09b07, received 175719.14069566
+2016-Apr-01 19:35:08.701109 INFO [simplewallet] Mining stopped in daemon
+2016-Apr-01 19:35:12.415656 INFO [simplewallet] Wallet closed
+2016-Apr-01 19:38:05.794883 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2016-Apr-01 19:38:17.375624 ERROR [simplewallet] Error: failed to load wallet: wallet file 'wallet2.wallet' is not found
+2016-Apr-01 19:38:17.375843 ERROR [simplewallet] Failed to initialize wallet
+2016-Apr-01 19:38:22.352945 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:22422).
+2016-Apr-01 19:38:25.496942 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2016-Apr-01 19:38:35.440936 INFO [simplewallet] Loading wallet...
+2016-Apr-01 19:38:35.548468 INFO [simplewallet] Opened wallet: bae1snysRehP9atqtk8eVESzd7A9ebAL9YgxAbt1QoRhFektgGNBqLdjKRvKTeJqmtD1PqX2R4KxeS9ZDFnfB8LZ3znCkumjYq
+2016-Apr-01 19:38:35.548642 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2016-Apr-01 19:38:41.463275 INFO [simplewallet] Mining started in daemon
+2016-Apr-01 22:50:47.631650 INFO [simplewallet] Mining stopped in daemon
+2016-Apr-01 22:50:55.568444 INFO [simplewallet] Mining started in daemon
+2016-Apr-01 22:51:17.291106 INFO [simplewallet] available balance: 15123181.13715236, locked amount: 5798868.38970501
+2016-Apr-02 00:07:40.895171 INFO [simplewallet] Wallet closed
+2016-Apr-02 00:46:12.642912 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2016-Apr-02 00:46:21.102452 INFO [simplewallet] Loading wallet...
+2016-Apr-02 00:46:21.206333 ERROR [simplewallet] Error: failed to load wallet: can't load wallet file 'walletimac.wallet', check password
+2016-Apr-02 00:46:21.206488 ERROR [simplewallet] Failed to initialize wallet
+2016-Apr-02 00:46:26.111082 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:22422).
+2016-Apr-02 00:46:27.808980 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2016-Apr-02 00:46:36.790046 INFO [simplewallet] Loading wallet...
+2016-Apr-02 00:46:36.862072 INFO [simplewallet] Opened wallet: bae1snysRehP9atqtk8eVESzd7A9ebAL9YgxAbt1QoRhFektgGNBqLdjKRvKTeJqmtD1PqX2R4KxeS9ZDFnfB8LZ3znCkumjYq
+2016-Apr-02 00:46:36.862249 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2016-Apr-02 00:46:45.221767 INFO [simplewallet] Mining started in daemon
+2016-Apr-02 00:46:47.709900 INFO [simplewallet] available balance: 15123181.13715236, locked amount: 5798868.38970501
+2016-Apr-02 00:55:22.681749 INFO [simplewallet] Height 1210, transaction 94bd634466a2130d701e9ba54b4e3275dc2ed74a03fbb3cba5c0aae74af00d7c, received 175718.97311683
+2016-Apr-02 01:21:39.635971 INFO [simplewallet] Height 1211, transaction b76fe21dac604537dac77df8d04ce3b03517b500c3ca04fb003c766ba26577fe, received 175718.80553815
+2016-Apr-02 02:26:00.797943 INFO [simplewallet] Height 1212, transaction b9e8e1aba296cf4c9b513d38b69e8c15e10f41e7e03c17c0b99b22ef0813e538, received 175718.63795964
+2016-Apr-02 02:43:32.511315 INFO [simplewallet] Height 1213, transaction b6f003d96db06ccbe2d9e8419320f9330da9e945ebcbbc0d55ce9e261552dfb1, received 175718.47038129
+2016-Apr-02 03:06:59.816561 INFO [simplewallet] Height 1214, transaction 2616052d677f8c8000ad5a96a3afb2ea1434bf07b3efdf84e7717879561b8fb1, received 175718.30280310
+2016-Apr-02 03:33:37.448213 INFO [simplewallet] Height 1215, transaction dda5b1624752aac5a92f9733b98ae006b52bcbafde11d02034c9a83a2f2d3f03, received 175718.13522507
+2016-Apr-02 04:07:40.789308 INFO [simplewallet] Height 1216, transaction a353df290302dfc19a0acff3509e8e256c22c97e629f8f3a16471f361130bdc7, received 175717.96764719
+2016-Apr-02 04:46:44.580467 INFO [simplewallet] Height 1217, transaction 195556d720c2b8bfd1c19a94c7eb3692b156e1b4dca784ac59401ed0fcf3d71b, received 175717.80006948
+2016-Apr-02 06:18:12.769849 INFO [simplewallet] Height 1218, transaction f98a5bc78479b8a1e6a202b4b04cc9c3813ba2e40ed4c9a745f6c35bc9c4fda8, received 175717.63249193
+2016-Apr-02 06:37:59.097482 INFO [simplewallet] Height 1219, transaction 0ee1c91ca76350ec52fc65e884ea4b836b3812d14eace2d6c2c3a0d63174301f, received 175717.46491454
+2016-Apr-02 06:38:39.136642 INFO [simplewallet] Height 1220, transaction e4125a82ca638708b4c13fdec634dbf40884dc19e40040d15d2164da321287bc, received 175717.29733730
+2016-Apr-02 08:05:51.924773 INFO [simplewallet] Height 1221, transaction ab1fdde97737114cb0b709024ab440f1a2c6869c680fc6c2012ca4805b83630e, received 175717.12976023
+2016-Apr-02 08:18:58.155144 INFO [simplewallet] Height 1222, transaction 5765eb3dcfe1902b05ded8550fbbbc8a87df55f8fbe9ba80bd6bb829c4a7dc54, received 175716.96218332
+2016-Apr-02 08:51:36.309990 INFO [simplewallet] Height 1223, transaction 4788222c6243672466875a311b67ac715f20e4acc455d2b5773e760af347a247, received 175716.79460656
+2016-Apr-02 08:54:56.690208 INFO [simplewallet] Height 1224, transaction 18c317de94bc3701566c96d79e2024f3f64deb4ae214589fb34705ef932408f6, received 175716.62702997
+2016-Apr-02 09:07:52.892099 INFO [simplewallet] Height 1225, transaction 236a864d585142376d6cade460ec476aa19c9e2fc7579399d36d024de551beb1, received 175716.45945353
+2016-Apr-02 09:14:23.489827 INFO [simplewallet] Height 1226, transaction 0b1c9600b7d36d6b11e2d095533314f90c74ea49d46573f16c7dfb5e8bc6533f, received 175716.29187726
+2016-Apr-02 09:56:42.671410 INFO [simplewallet] Height 1227, transaction b589725d7dfae663e8da472bab8b1d1c8fd072d1b112c12fbd7b3fe405682b50, received 175716.12430114
+2016-Apr-02 10:06:33.636484 INFO [simplewallet] Height 1228, transaction 64d9eefb7e8909f301903b532970b964a5904f83ac8a5147486361c2e412011f, received 175715.95672519
+2016-Apr-02 10:10:29.030192 INFO [simplewallet] Height 1229, transaction 1dfee531967a32b08f4ee70da707f280229988d93875dbb943c7078b1247ee5d, received 175715.78914939
+2016-Apr-02 10:13:39.319584 INFO [simplewallet] Height 1230, transaction 59c3ce27e23e20380fae60fab72f65de403182309f9d194c23e9c02e545fedd5, received 175715.62157376
+2016-Apr-02 11:04:19.251922 INFO [simplewallet] Height 1231, transaction 1bcc2324664254822bee5d93d1cd963a01013742c67a78fb54a3e5244bb79050, received 175715.45399828
+2016-Apr-02 11:18:45.716178 INFO [simplewallet] Height 1232, transaction 320e1f5157e924b07440f8d81511591f6d67b70844f8f282e1c25f67b34cc5e2, received 175715.28642297
+2016-Apr-02 11:32:37.055174 INFO [simplewallet] Height 1233, transaction 748893e733943942fb9289b22554a98629c16857202805725ffe09f97f7e3c99, received 175715.11884781
+2016-Apr-14 12:13:01.888637 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2016-Apr-14 12:13:15.904580 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:22422).
+2016-Apr-14 12:13:15.956654 INFO [simplewallet] Loading wallet...
+2016-Apr-14 12:13:16.627584 INFO [simplewallet] Opened wallet: bae1snysRehP9atqtk8eVESzd7A9ebAL9YgxAbt1QoRhFektgGNBqLdjKRvKTeJqmtD1PqX2R4KxeS9ZDFnfB8LZ3znCkumjYq
+2016-Apr-14 12:13:16.627737 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2016-Apr-14 12:14:31.120317 INFO [simplewallet] Wallet connected to daemon.
+2016-Apr-14 12:14:41.562432 INFO [simplewallet] Height 1210, transaction 94bd634466a2130d701e9ba54b4e3275dc2ed74a03fbb3cba5c0aae74af00d7c, received 175718.97311683
+2016-Apr-14 12:14:41.562640 INFO [simplewallet] Height 1211, transaction b76fe21dac604537dac77df8d04ce3b03517b500c3ca04fb003c766ba26577fe, received 175718.80553815
+2016-Apr-14 12:14:41.562749 INFO [simplewallet] Height 1212, transaction b9e8e1aba296cf4c9b513d38b69e8c15e10f41e7e03c17c0b99b22ef0813e538, received 175718.63795964
+2016-Apr-14 12:14:41.562856 INFO [simplewallet] Height 1213, transaction b6f003d96db06ccbe2d9e8419320f9330da9e945ebcbbc0d55ce9e261552dfb1, received 175718.47038129
+2016-Apr-14 12:14:41.562960 INFO [simplewallet] Height 1214, transaction 2616052d677f8c8000ad5a96a3afb2ea1434bf07b3efdf84e7717879561b8fb1, received 175718.30280310
+2016-Apr-14 12:14:41.563134 INFO [simplewallet] Height 1215, transaction dda5b1624752aac5a92f9733b98ae006b52bcbafde11d02034c9a83a2f2d3f03, received 175718.13522507
+2016-Apr-14 12:14:41.563244 INFO [simplewallet] Height 1216, transaction a353df290302dfc19a0acff3509e8e256c22c97e629f8f3a16471f361130bdc7, received 175717.96764719
+2016-Apr-14 12:14:41.563346 INFO [simplewallet] Height 1217, transaction 195556d720c2b8bfd1c19a94c7eb3692b156e1b4dca784ac59401ed0fcf3d71b, received 175717.80006948
+2016-Apr-14 12:14:41.563448 INFO [simplewallet] Height 1218, transaction f98a5bc78479b8a1e6a202b4b04cc9c3813ba2e40ed4c9a745f6c35bc9c4fda8, received 175717.63249193
+2016-Apr-14 12:14:41.563549 INFO [simplewallet] Height 1219, transaction 0ee1c91ca76350ec52fc65e884ea4b836b3812d14eace2d6c2c3a0d63174301f, received 175717.46491454
+2016-Apr-14 12:14:41.563656 INFO [simplewallet] Height 1220, transaction e4125a82ca638708b4c13fdec634dbf40884dc19e40040d15d2164da321287bc, received 175717.29733730
+2016-Apr-14 12:14:41.563755 INFO [simplewallet] Height 1221, transaction ab1fdde97737114cb0b709024ab440f1a2c6869c680fc6c2012ca4805b83630e, received 175717.12976023
+2016-Apr-14 12:14:41.563863 INFO [simplewallet] Height 1222, transaction 5765eb3dcfe1902b05ded8550fbbbc8a87df55f8fbe9ba80bd6bb829c4a7dc54, received 175716.96218332
+2016-Apr-14 12:14:41.563962 INFO [simplewallet] Height 1223, transaction 4788222c6243672466875a311b67ac715f20e4acc455d2b5773e760af347a247, received 175716.79460656
+2016-Apr-14 12:14:41.564066 INFO [simplewallet] Height 1224, transaction 18c317de94bc3701566c96d79e2024f3f64deb4ae214589fb34705ef932408f6, received 175716.62702997
+2016-Apr-14 12:14:41.564164 INFO [simplewallet] Height 1225, transaction 236a864d585142376d6cade460ec476aa19c9e2fc7579399d36d024de551beb1, received 175716.45945353
+2016-Apr-14 12:14:41.564267 INFO [simplewallet] Height 1226, transaction 0b1c9600b7d36d6b11e2d095533314f90c74ea49d46573f16c7dfb5e8bc6533f, received 175716.29187726
+2016-Apr-14 12:14:41.564372 INFO [simplewallet] Height 1227, transaction b589725d7dfae663e8da472bab8b1d1c8fd072d1b112c12fbd7b3fe405682b50, received 175716.12430114
+2016-Apr-14 12:14:41.564500 INFO [simplewallet] Height 1228, transaction 64d9eefb7e8909f301903b532970b964a5904f83ac8a5147486361c2e412011f, received 175715.95672519
+2016-Apr-14 12:14:41.564605 INFO [simplewallet] Height 1229, transaction 1dfee531967a32b08f4ee70da707f280229988d93875dbb943c7078b1247ee5d, received 175715.78914939
+2016-Apr-14 12:14:41.564704 INFO [simplewallet] Height 1230, transaction 59c3ce27e23e20380fae60fab72f65de403182309f9d194c23e9c02e545fedd5, received 175715.62157376
+2016-Apr-14 12:14:41.564808 INFO [simplewallet] Height 1231, transaction 1bcc2324664254822bee5d93d1cd963a01013742c67a78fb54a3e5244bb79050, received 175715.45399828
+2016-Apr-14 12:14:41.564911 INFO [simplewallet] Height 1232, transaction 320e1f5157e924b07440f8d81511591f6d67b70844f8f282e1c25f67b34cc5e2, received 175715.28642297
+2016-Apr-14 12:14:42.208491 INFO [simplewallet] Height 1233, transaction 748893e733943942fb9289b22554a98629c16857202805725ffe09f97f7e3c99, received 175715.11884781
+2016-Apr-14 12:14:42.302001 INFO [simplewallet] available balance: 17056172.96232956, locked amount: 8083085.66794174
+2016-Apr-14 12:14:42.302308 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2016-Apr-14 12:14:51.122159 INFO [simplewallet] available balance: 17056172.96232956, locked amount: 8083085.66794174
+2016-Apr-14 12:14:58.338452 INFO [simplewallet] 1233
+2016-Apr-14 12:15:49.033205 INFO [simplewallet] Wallet closed
+2017-Jan-23 14:10:26.878846 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2017-Jan-23 14:10:46.313196 ERROR [simplewallet] Error: failed to load wallet: wallet file 'wallet.wallet' is not found
+2017-Jan-23 14:10:46.313387 ERROR [simplewallet] Failed to initialize wallet
+2017-Jan-23 14:10:46.347535 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:22422).
+2017-Jan-23 14:12:31.548078 INFO [simplewallet] Baecoin wallet v1.1.1.1()
+2017-Jan-23 14:13:23.446983 ERROR [simplewallet] Error: failed to load wallet: wallet file 'walletimac.wallet' is not found
+2017-Jan-23 14:13:23.447282 ERROR [simplewallet] Failed to initialize wallet
+2017-Jan-23 14:13:23.471210 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:22422).
